@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:series="https://publishpress.com/"
+	>
+
+<channel>
+	<title>Gadgets &#8211; Blasted Science</title>
+	<atom:link href="/category/gadgets/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>DIY Projects Done Completely Wrong</description>
+	<lastBuildDate>Fri, 14 Apr 2017 19:03:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">123820757</site>	<item>
+		<title>New Video: How to Make a 20,000 Volt Jacob&#8217;s Ladder (Sort of)</title>
+		<link>/new-video-make-20000-volt-jacobs-ladder-sort/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=new-video-make-20000-volt-jacobs-ladder-sort</link>
+					<comments>/new-video-make-20000-volt-jacobs-ladder-sort/#respond</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Mon, 10 Apr 2017 15:48:28 +0000</pubDate>
+				<category><![CDATA[Electricity]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[High Voltage]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Informational]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[capacitors]]></category>
+		<category><![CDATA[diy]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[high voltage]]></category>
+		<category><![CDATA[informational]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[videos]]></category>
+		<category><![CDATA[voltage]]></category>
+		<guid isPermaLink="false">/?p=775</guid>
+
+					<description><![CDATA[<p>This is hands-down the easiest way to make a Jacob's Ladder, period. All you need is an old TV and a death wish.</p>
+<p>The post <a rel="nofollow" href="/new-video-make-20000-volt-jacobs-ladder-sort/">New Video: How to Make a 20,000 Volt Jacob&#8217;s Ladder (Sort of)</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>After years of study and practice, Blasted Science has finally perfected the Jacob&#8217;s Ladder. Technically it breaks after five seconds, but hey, maybe yours won&#8217;t.</p>
+<p>This is hands-down the easiest way to make a Jacob&#8217;s Ladder, period. All you need is an old TV and a death wish.</p>
+<h3><iframe src="//www.youtube.com/embed/3D4caz-c3PI" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></h3>
+<p>The actual tutorial in the video is quite subtle, so here&#8217;s a written explanation of exactly what we did:</p>
+<h3><strong>Instructions:</strong></h3>
+<ol>
+<li>Take apart a CRT TV. Be careful! They can implode if you crack the glass.</li>
+<li>Rip the circuit board out. This will probably require cutting a few wires.</li>
+<li>Plug it into the wall, and turn it on. You should hear a high-pitched noise. This is the part where you be EXTREMELY careful.</li>
+<li>Two of the biggest (usually red) wires will arc up to a few centimeters. These are the wires you want. Don&#8217;t get your bare skin near them. Keep your left hand behind your back at all times.</li>
+<li>Hook the two arcing wires up to a pair of metal rods that are in a long V-shape. Voila! That&#8217;s all there is to it.</li>
+</ol>
+<p>You might have to initiate the spark by putting something metal between the two wires at the bottom.</p>
+<p>DO NOT TRY THIS AT HOME. A SINGLE MISTAKE WILL KILL YOU. The electricity is powerful enough to instantly kill you. Would not recommend.</p>
+<p>The post <a rel="nofollow" href="/new-video-make-20000-volt-jacobs-ladder-sort/">New Video: How to Make a 20,000 Volt Jacob&#8217;s Ladder (Sort of)</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/new-video-make-20000-volt-jacobs-ladder-sort/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">775</post-id>	</item>
+		<item>
+		<title>Build Your Own Tablet</title>
+		<link>/the-tablet-build-for-you/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=the-tablet-build-for-you</link>
+					<comments>/the-tablet-build-for-you/#respond</comments>
+		
+		<dc:creator><![CDATA[Bastian Hulse]]></dc:creator>
+		<pubDate>Thu, 09 Feb 2017 16:49:48 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[diy]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[low-cost]]></category>
+		<category><![CDATA[Tablet]]></category>
+		<guid isPermaLink="false">/?p=181</guid>
+
+					<description><![CDATA[<p>Having trouble finding a good tablet? Unfortunately, there are none. You'll have to make your own.</p>
+<p>The post <a rel="nofollow" href="/the-tablet-build-for-you/">Build Your Own Tablet</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2 style="text-align: center;">Build Your Own Tablet</h2>
+<p><span style="font-weight: 400;">Everyone always has a complaint about their iPad or, for that matter, any other tablet (we just prefer to roast the iPad in particular). Having trouble finding a good tablet? Trick question, there are none. You&#8217;ll have to make your own. Before you even take another step </span><b>this will cost money</b><span style="font-weight: 400;">. We know this breaks our own rules, but it&#8217;s unavoidable. Sadly, even Blasted Science can’t build a good tablet with parts found in a dumpster.</span></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-263" src="/wp-content/uploads/2016/02/tablet-812708_960_720.png" alt="Tablet Cartoon" width="851" height="720" srcset="/wp-content/uploads/2016/02/tablet-812708_960_720.png 851w, /wp-content/uploads/2016/02/tablet-812708_960_720-300x254.png 300w, /wp-content/uploads/2016/02/tablet-812708_960_720-400x338.png 400w" sizes="(max-width: 851px) 100vw, 851px" />Being the master of electronics and engineering that we are we decided we should share our knowledge and wisdom with those of you at home who may not be so gifted. That doesn&#8217;t mean you; you must be smart because you&#8217;re reading this. Just tell everyone you know that they do not have the knowledge of the all-powerful Blasted Science to help them along the journey of life. we have done the research and we know we can make the most powerful tablet you have ever seen. We have decided that the best way to do this is a step by step process, so here it goes.</p>
+<ol>
+<li>Do some research. It is important to have a good idea of what you want. Find a tablet that you would want and absorb all of the knowledge from the reviews. The details and specs are useless only go to reviews, preferably reviews written by people who have not bought the product.</li>
+<li>Buy it. To make the tablet that fits you you will have to test it out and see what you like. While the reviews may be a very good source you are better. Test it out for a month all the while making a list of the things you do and don&#8217;t like.</li>
+<li>Destroy it. You can&#8217;t be tethered to these Earthly objects when going through the process of engineering. I recommend meditation to get the clear mind that is necessary when destroying to rebuild. The destruction process is really important. You must open it up take out all the electronics in the case then use a sledgehammer to gently destroy it. Keep the case it will be important later.</li>
+<li>Buy a new one. Now that you have that list of things you do and do not like buy one that fits those criteria. Once you have one that you know you like move on to the next step.</li>
+<li>Take out the insides. We are still making our own.</li>
+<li>Get the case out from earlier. Get the case and stuff the electronics from your new one in the old one. If it doesn&#8217;t fit then just saw off one side, it&#8217;ll probably still work.</li>
+<li>Clickbait. Take out your 1000 DEGREE GLOWING KNIFE and slice the second tablet&#8217;s casing. YOU WON&#8217;T BELIEVE WHAT HAPPENS NEXT, ONLY 3% OF PEOPLE CAN SEE THE FUMES THAT IT EMITS! DO THE FUMES CONTRIBUTE TO GLOBAL WARMING??????</li>
+<li>ENJOY! You are so welcome for the new and improved tablet.</li>
+</ol>
+<p>We at Blasted Science accept tips, and welcome you to contact us and we will give you the opportunity to donate to us.</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="/the-tablet-build-for-you/">Build Your Own Tablet</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/the-tablet-build-for-you/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">181</post-id>	</item>
+		<item>
+		<title>New Video: Blasted Science Documentary</title>
+		<link>/new-video-blasted-science-documentary-dangerous-diy-projects/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=new-video-blasted-science-documentary-dangerous-diy-projects</link>
+					<comments>/new-video-blasted-science-documentary-dangerous-diy-projects/#respond</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Sat, 04 Feb 2017 03:00:28 +0000</pubDate>
+				<category><![CDATA[Electricity]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[High Voltage]]></category>
+		<category><![CDATA[Informational]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[blowtorch]]></category>
+		<category><![CDATA[current]]></category>
+		<category><![CDATA[danger]]></category>
+		<category><![CDATA[dangerous]]></category>
+		<category><![CDATA[death]]></category>
+		<category><![CDATA[diy]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[lasers]]></category>
+		<category><![CDATA[low-cost]]></category>
+		<category><![CDATA[propane torch]]></category>
+		<category><![CDATA[styrofoam]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[voltage]]></category>
+		<category><![CDATA[weapons]]></category>
+		<guid isPermaLink="false">/?p=618</guid>
+
+					<description><![CDATA[<p>Blasted Science's first video! Spoiler warning: it's dangerous.</p>
+<p>The post <a rel="nofollow" href="/new-video-blasted-science-documentary-dangerous-diy-projects/">New Video: Blasted Science Documentary</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Blasted Science&#8217;s first video! This is an introduction into what we do at Blasted Science. Spoiler warning: it&#8217;s dangerous. Stay tuned for more videos about all of the projects mentioned in this video!</p>
+<p><iframe loading="lazy" src="//www.youtube.com/embed/49WSXFQVTCI" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
+<p>This update is a couple months late. We noticed.</p>
+<p>The post <a rel="nofollow" href="/new-video-blasted-science-documentary-dangerous-diy-projects/">New Video: Blasted Science Documentary</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/new-video-blasted-science-documentary-dangerous-diy-projects/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">618</post-id>	</item>
+		<item>
+		<title>Top 5 More Household Items to Turn into Weapons</title>
+		<link>/top-5-more-household-items-to-turn-into-weapons/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=top-5-more-household-items-to-turn-into-weapons</link>
+					<comments>/top-5-more-household-items-to-turn-into-weapons/#respond</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Sat, 26 Nov 2016 17:04:44 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Informational]]></category>
+		<category><![CDATA[Top 5]]></category>
+		<category><![CDATA[blowtorch]]></category>
+		<category><![CDATA[current]]></category>
+		<category><![CDATA[danger]]></category>
+		<category><![CDATA[dangerous]]></category>
+		<category><![CDATA[diy]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[flamethrower]]></category>
+		<category><![CDATA[low-cost]]></category>
+		<category><![CDATA[top 5]]></category>
+		<category><![CDATA[weapons]]></category>
+		<guid isPermaLink="false">/?p=487</guid>
+
+					<description><![CDATA[<p>We don&#8217;t feel like we covered everything last time. Here are five more dangerous tools you can make from ordinary household items. Poke your eye out, kid. 5. Spaghetti A thermic lance is a heavy-duty demolition tool that burns steel alloys and aluminum in pressurized oxygen to create temperatures hot enough to cut… anything, really. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/top-5-more-household-items-to-turn-into-weapons/">Top 5 More Household Items to Turn into Weapons</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>We don&#8217;t feel like we covered everything last time. Here are five more dangerous tools you can make from ordinary household items. Poke your eye out, kid.</p>
+<p><span id="more-487"></span></p>
+<h3><b>5. Spaghetti</b></h3>
+<p>A thermic lance is a heavy-duty demolition tool that burns steel alloys and aluminum in pressurized oxygen to create temperatures hot enough to cut… anything, really. Instead of burning steel, this do-it-yourself version uses spaghetti as fuel.</p>
+<p>Spaghetti may not seem particularly flammable, but with pure oxygen just about everything becomes a pyromaniac’s dream. With just an oxygen tank, aluminum foil, and a small handful of spaghetti, you can make a thermic lance that burns hot enough to melt through concrete.</p>
+<p><iframe loading="lazy" src="//www.youtube.com/embed/-sEdHh1Xjb0" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Thermic lances are used in construction and demolition to cut large pieces of steel. This homemade version can get hot enough to melt metal. All you have to do is hook up one side of a small hose to an oxygen tank and attach a small amount of spaghetti wrapped in aluminum foil to the other. Igniting the spaghetti in the oxygen-rich tube produces a crazy-hot flame, creating the cheapest steel-melting lance you&#8217;ll ever see.</p>
+<p>It is worth noting that Blasted Science has constructed their own thermic lance. However, ours never runs out of oxygen. Instead of a tank, we hooked it up to an oxygen generator for longer burning.</p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-496" src="/wp-content/uploads/2016/11/Thermic-Lance-1.gif" alt="Thermic Lance" width="360" height="360" /></p>
+<p>&nbsp;</p>
+<p><b>4. Ammonia</b></p>
+<p>Ammonia itself can be dangerous (inhalation not recommended), but when combined with iodine, the extremely volatile explosive Nitrogen Triiodide is formed. Touching it with just about anything is enough to make it explode.</p>
+<p>All you need is ammonium hydroxide, easily purchased as a household cleaner, and iodine crystals, easily purchased online. Simply dissolve the iodine crystals in the ammonium hydroxide and wait a few hours. Pour the resulting liquid over filter paper to collect the explosive. Be careful: even though the compound is more stable while in solution, it can still potentially explode while dissolved.</p>
+<p><iframe loading="lazy" src="//www.youtube.com/embed/0nOikC5W3U8" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Nitrogen Triiodide has no practical use, due to its extreme sensitivity to friction, but it can certainly be entertaining. Be extremely careful with these crystals; the slightest touch and you can kiss your fingers goodbye. It’s recommended that you start small, and work your way up to bigger amounts once you know what you’re doing.</p>
+<p>Blasted Science attempted to make Nitrogren Triiodide, but our iodine samples weren&#8217;t nearly pure enough for it to work.  Sticking live wires into a bottle filled with iodized salt water probably wasn&#8217;t the best way to obtain iodine.</p>
+<h3><b>3. Etch-a-Sketch</b></h3>
+<p><a href="/wp-content/uploads/2016/11/etch-a-sketch.jpg"><img decoding="async" loading="lazy" class="aligncenter wp-image-542 size-full" src="/wp-content/uploads/2016/11/etch-a-sketch-e1479857567215.jpg" alt="Etch a Sketch" width="512" height="512" /></a></p>
+<p>This common toy is loaded with powdered aluminum. Aluminum, sadly, doesn&#8217;t burn. Unless it&#8217;s combined with rust, that is.</p>
+<p>Mixing powdered aluminum and iron oxide (rust) in the correct ratio, three parts iron oxide to one part aluminum, creates thermite. Thermite isn&#8217;t explosive, but burns at insanely high temperatures and produces iron. However, it also requires insanely high temperatures to ignite; a normal flame won’t do it. Using a sparkler is an easy way to get it started. Never ignite thermite near yourself; it spews molten metal all over the place. You don’t want to be anywhere near it once it’s lit.</p>
+<p>After the time of writing (this list has been in limbo for a long time), Grant Thompson and Cody&#8217;s Lab successfully created thermite from an Etch-a-Sketch. The video from Cody&#8217;s Lab goes into greater detail on their project.</p>
+<p><iframe loading="lazy" src="//www.youtube.com/embed/Mbk7ijNQlMc" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Thermite burns at well above 4,000° Fahrenheit: hot enough to melt through things not usually considered meltable, such as dirt. Good luck finding a container that can hold it. Most commonly, ceramic containers are used, such as flowerpots. Surprisingly, it is 100% legal to own and use. Have fun.</p>
+<h3><b>2. Drain Cleaner</b></h3>
+<p>Drain cleaner, aluminum foil, and a pop bottle are used to make what is called a “Drano bomb.” Combining drain cleaner (sodium hydroxide) and aluminum foil produces hydrogen gas. If the reaction occurs in a sealed bottle, the pressure will increase until the bottle explodes.</p>
+<p>Using drain cleaner to make bottle bombs can be very dangerous. The explosion can cause chemical burns and the loss of fingers. For this device in particular, please be mature. These bombs are often left in people’s yards and mailboxes, and can cause severe damage to people and property. Be extremely careful with explosives and never use them to harm anyone or anything.</p>
+<p>Alternatively, try stretching a balloon over the mouth of the bottle. The balloon will fill with hydrogen gas, which is lighter than helium and extremely flammable. Try lighting the balloon with a match, even a small balloon will make a sizeable explosion. You&#8217;ll definitely want to wear thick gloves while lighting it.</p>
+<div id="attachment_544" style="width: 249px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2016/11/Drano.jpg"><img aria-describedby="caption-attachment-544" decoding="async" loading="lazy" class="wp-image-544 size-medium" src="/wp-content/uploads/2016/11/Drano-239x300.jpg" alt="Drano Balloon" width="239" height="300" /></a><p id="caption-attachment-544" class="wp-caption-text">Blasted Science&#8217;s hydrogen bomb in the making</p></div>
+<p>Blasted Science can confirm that this works very well. Unfortunately, our video has become corrupted, and our only evidence is the single photograph above.</p>
+<h3><b>1. Lantern Battery</b></h3>
+<p>Using a power supply built from microwave oven transformers, the carbon rods in lantern batteries happen to work perfectly as electrodes in a miniature electric arc furnace hot enough to turn metal and rocks into molten goop.</p>
+<p><iframe loading="lazy" src="//www.youtube.com/embed/VTzKIs19eZE" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
+<p>The entire process is detailed by Grant Thompson in one of his most dangerous DIY projects to date. This project is a bit more complicated than the rest: you’ll need to use the transformers from a pair of microwaves to convert the electricity from your house into a current capable of forming an arc. But the effort is well worth it. With a couple of microwaves, pliers, carbon rods, and a block of firebrick, you can make a forge capable of melting just about everything imaginable.</p>
+<p>However, all that power comes at the price of serious danger. This is easily the most dangerous item on this list. You’ll be dealing with electricity, extremely high temperatures, toxic fumes, and molten metal. Because of this, take appropriate safety measures. This project is not for the faint of heart.</p>
+<p>Once again, Blasted Science has constructed their own version of this. However, it deserves more than just a mention in a list. Expect more information on our arc furnace in the future.</p>
+<div id="attachment_548" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2016/11/Screenshot_20161126-095816.png"><img aria-describedby="caption-attachment-548" decoding="async" loading="lazy" class="size-large wp-image-548" src="/wp-content/uploads/2016/11/Screenshot_20161126-095816-1024x576.png" alt="Arc Furnace" width="800" height="450" /></a><p id="caption-attachment-548" class="wp-caption-text">Just to prove we aren&#8217;t making this up</p></div>
+<p>The post <a rel="nofollow" href="/top-5-more-household-items-to-turn-into-weapons/">Top 5 More Household Items to Turn into Weapons</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/top-5-more-household-items-to-turn-into-weapons/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		
+		<series:name><![CDATA[Household Weapons]]></series:name>
+<post-id xmlns="com-wordpress:feed-additions:1">487</post-id>	</item>
+		<item>
+		<title>Hunting for Disposable Cameras: Locating Them</title>
+		<link>/hunting-disposable-cameras-locating-them/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=hunting-disposable-cameras-locating-them</link>
+					<comments>/hunting-disposable-cameras-locating-them/#respond</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Thu, 26 May 2016 22:22:16 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Informational]]></category>
+		<category><![CDATA[disposable camera]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[informational]]></category>
+		<guid isPermaLink="false">/?p=430</guid>
+
+					<description><![CDATA[<p>This time we're going to get our hands dirty.</p>
+<p>The post <a rel="nofollow" href="/hunting-disposable-cameras-locating-them/">Hunting for Disposable Cameras: Locating Them</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-446" src="/wp-content/uploads/2016/05/DwaynesMap-1024x576.jpg" alt="Dwayne's Photo" width="800" height="450" />Welcome back to <em>Hunting for Disposable Cameras</em>, a series of posts documenting our progress toward finding a bunch of free disposable cameras in the modern world. <a href="/asking-companies-disposable-cameras/">Last time</a>, we tried asking companies what they&#8217;re doing with all the cameras. That didn&#8217;t work out. This time we&#8217;re going to get our hands dirty.</p>
+<p>The internet is silent on this subject. It took hours to find any useful information about the rarity of disposable cameras. After sifting through almost a dozen pages of Google search results, I finally stumbled across a forum thread that was discussing this problem. A person by the username <em>venchka </em>shared the following information:</p>
+<blockquote><p>Walmart sends the film to the nearest Fuji lab. Fuji process the 35mm C-41 film. Everything else goes to Dwayne&#8217;s.</p></blockquote>
+<p>Source: <a href="http://www.rangefinderforum.com/forums/showthread.php?t=77389">Ranger Finder Forum &#8211; Walmart stopping film processing?</a></p>
+<p>Assuming venchka speaks the truth, this is exactly what we&#8217;ve been looking for! Apparently, the cameras either go to someplace called Dwayne&#8217;s or they get sent to the nearest Fuji lab. What are those places?</p>
+<h3><strong>Dwayne&#8217;s Photo</strong></h3>
+<p><a href="https://www.dwaynesphoto.com/">Dwayne&#8217;s Photo</a> is a photofinishing lab located in the middle of nowhere. More specifically, they reside in a &#8220;small town in Kansas&#8221; according to their web site. Their history page more or less explains why Walmart sends some of their film to them:</p>
+<blockquote><p>With over 50 employees, Dwayne&#8217;s is one of the largest specialty labs in the United States.  We are very proud to have been the last lab in the world to process Kodak&#8217;s iconic Kodachrome film.  We are one of the few labs that still offer processing for a variety of film types that are no longer manufactured, including Disc and 126 films.</p></blockquote>
+<p>Dwayne&#8217;s is quite literally one of the last places on the entire planet that still develops certain types of film. It seems that Walmart has no choice but to send some types of film off to a tiny Kansas town for processing. The only place that still  has the technology required is a tiny family owned company smack dab in the middle of nowhere.</p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-442" src="/wp-content/uploads/2016/05/DwaynesPhotoWorldView-1024x548.png" alt="Dwayne's Photo" width="800" height="428" srcset="/wp-content/uploads/2016/05/DwaynesPhotoWorldView-1024x548.png 1024w, /wp-content/uploads/2016/05/DwaynesPhotoWorldView-300x161.png 300w, /wp-content/uploads/2016/05/DwaynesPhotoWorldView-400x214.png 400w, /wp-content/uploads/2016/05/DwaynesPhotoWorldView.png 1055w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>Also, forgive me, but I find it quite hilarious that &#8220;one of the largest specialty labs in the United States&#8221; only has around 50 employees.</p>
+<p>Unfortunately, unless you happen to live in Kansas, Dwayne&#8217;s camera doesn&#8217;t seem like a good choice for getting a bunch of free disposable cameras. Even if the company were kind enough to mail them to you, it would defeat the entire purpose. We want to get the cameras for free. Stupid shipping costs. Fortunately, we still have one more hope: Walmart also sends cameras to Fuji labs.</p>
+<h3><strong>Fuji Labs</strong></h3>
+<p><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-447" src="/wp-content/uploads/2016/05/Secret-1024x576.jpg" alt="Fujifilm USA web site" width="800" height="450" srcset="/wp-content/uploads/2016/05/Secret-1024x576.jpg 1024w, /wp-content/uploads/2016/05/Secret-300x169.jpg 300w, /wp-content/uploads/2016/05/Secret-400x225.jpg 400w, /wp-content/uploads/2016/05/Secret.jpg 1600w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>What the heck is a Fuji lab? After doing a bit of research, I found out. <a href="http://www.fujifilmusa.com/">Fujifilm</a> is a company that makes photo-developing equipment for businesses. A Fuji lab is any location that owns Fujifilm photofinishing equipment. Essentially, Walmart just sends the cameras off to the nearest place that still has photo equipment.</p>
+<p>How can you find these locations? Conveniently, Fujifilm has an index of every Fuji lab in the United States! Score! This list is probably everything you need. In fact, there are two Fuji labs within just a few miles of where I live. These places almost certainly have disposable cameras ready for the taking. You can view Fujifilm&#8217;s list of labs <a href="http://www.fujifilmusa.com/products/photofinishing/paper_lab_products/pro_labs/index.html">here</a>.</p>
+<p>This is the information we needed! All that&#8217;s left is to visit my local Fuji labs and do some smooth talking. Will it work? You&#8217;ll find out in the next post.</p>
+<p>The post <a rel="nofollow" href="/hunting-disposable-cameras-locating-them/">Hunting for Disposable Cameras: Locating Them</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hunting-disposable-cameras-locating-them/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		
+		<series:name><![CDATA[Hunting for Disposable Cameras]]></series:name>
+<post-id xmlns="com-wordpress:feed-additions:1">430</post-id>	</item>
+		<item>
+		<title>Asking Companies About Disposable Cameras</title>
+		<link>/asking-companies-disposable-cameras/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=asking-companies-disposable-cameras</link>
+					<comments>/asking-companies-disposable-cameras/#comments</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Wed, 25 May 2016 03:31:34 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Informational]]></category>
+		<category><![CDATA[disposable camera]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[informational]]></category>
+		<guid isPermaLink="false">/?p=426</guid>
+
+					<description><![CDATA[<p>Disposable cameras are  too hard to find. We're going to find a solution to this problem, starting at the source: business.</p>
+<p>The post <a rel="nofollow" href="/asking-companies-disposable-cameras/">Asking Companies About Disposable Cameras</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_434" style="width: 1031px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-434" decoding="async" loading="lazy" class="wp-image-434 size-full" src="/wp-content/uploads/2016/05/WalgreensContact.png" alt="Walgreens Contact" width="1021" height="660" /><p id="caption-attachment-434" class="wp-caption-text">Somehow I get the feeling that it&#8217;s not going to be this easy</p></div>
+<p>In the <a href="/disposable-cameras-too-hard-to-find/">previous post</a> of this series, we complained about the scarcity of disposable cameras, which makes many electronics projects much trickier to complete. Now, we&#8217;re going to find a solution to this problem, starting at the source: business.</p>
+<h3><strong>Where are the cameras going?</strong></h3>
+<p>Many places that develop film no longer possess the necessary equipment to develop it. Instead, they ship the camera off to be developed elsewhere. The first step to finding the El Dorado of cameras is to find out where they all get sent. I reached out to about a dozen companies, including Walgreens, CVS Pharmacy, and Walmart, and asked them something similar to the following:</p>
+<blockquote><p>I am interested in acquiring a large number of used disposable cameras for a project I am working on. I have visited many of your physical locations and have been unsuccessful. According to the employees, your stores no longer develop the film on-site. They ship the cameras away to be developed somewhere else. I am wondering if you could tell me where they get sent off to. Thank you.</p></blockquote>
+<p>It&#8217;s been weeks and I&#8217;ve only gotten one response. Target replied to my email within the hour. Loosely paraphrasing, their reply stated <em>&#8220;No, we won&#8217;t give you any cameras. Shut up,&#8221; </em>which, needless to say, disappointed me greatly. At least they didn&#8217;t totally ignore me like the rest. Why haven&#8217;t I gotten any more responses? Maybe this is because all the customer service employees at every single contacted company simultaneously took a month-long vacation. Maybe it&#8217;s something far more sinister. That remains to be seen. Although it&#8217;s entirely possible that I get more responses later, I&#8217;ve jumped to the conclusion that I won&#8217;t get any. In any case, on the off-chance that I get another response, expect this post to be updated.</p>
+<h3><strong>Where to from here?</strong></h3>
+<p>If companies insist on ignoring me, there&#8217;s only one other option: the internet. Unfortunately, when it comes to locating disposable cameras, the internet is a barren place. In spite of this, after hours of research, I managed to find a few bits of useful information. I will share everything I&#8217;ve learned so far in the next post in this series.</p>
+<p>The post <a rel="nofollow" href="/asking-companies-disposable-cameras/">Asking Companies About Disposable Cameras</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/asking-companies-disposable-cameras/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		
+		<series:name><![CDATA[Hunting for Disposable Cameras]]></series:name>
+<post-id xmlns="com-wordpress:feed-additions:1">426</post-id>	</item>
+		<item>
+		<title>Disposable Cameras Are Too Hard to Find</title>
+		<link>/disposable-cameras-too-hard-to-find/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=disposable-cameras-too-hard-to-find</link>
+					<comments>/disposable-cameras-too-hard-to-find/#comments</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Mon, 16 May 2016 23:00:54 +0000</pubDate>
+				<category><![CDATA[Electricity]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Informational]]></category>
+		<category><![CDATA[capacitors]]></category>
+		<category><![CDATA[disposable camera]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[voltage]]></category>
+		<guid isPermaLink="false">/?p=388</guid>
+
+					<description><![CDATA[<p>There are a ton of DIY projects that require disposable cameras, but finding them is almost impossible.</p>
+<p>The post <a rel="nofollow" href="/disposable-cameras-too-hard-to-find/">Disposable Cameras Are Too Hard to Find</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2 style="text-align: left;"><strong>Not as Easy as It Used to Be</strong></h2>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-422" src="/wp-content/uploads/2016/05/Kodak.png" alt="Kodak" width="960" height="719" srcset="/wp-content/uploads/2016/05/Kodak.png 960w, /wp-content/uploads/2016/05/Kodak-300x225.png 300w, /wp-content/uploads/2016/05/Kodak-400x300.png 400w" sizes="(max-width: 960px) 100vw, 960px" /></p>
+<p>In this modern world, many aspiring budget DIY enthusiasts will run into a problem: finding used disposable cameras is almost impossible. There are a <a href="http://www.instructables.com/howto/disposable+camera/">ton</a> of DIY projects that require disposable cameras. There&#8217;s no substitute for them: they contain a specific part that&#8217;s almost impossible to find elsewhere.</p>
+<h3><strong>The Flash Capacitor</strong></h3>
+<p>The prize inside every disposable camera is the flash circuit. Flash circuits contain two useful parts: a capacitor and its charging circuit. The capacitor is usually between 100-200 µF at around 300-400 Volts. In other words, this thing packs some serious juice. Common uses include <a href="http://www.lucidscience.com/pro-camera%20flash%20taser-1.aspx">tasers</a> and <a href="http://hacknmod.com/hack/electromagnetic-firepower-with-a-diy-coilgun/">coilguns</a>, both of which you can expect to see on this site at some point. The problem is, disposable cameras are getting harder and harder to come across.</p>
+<p>In the old days, one could walk into a local photo development center and simply ask to take all of their used disposable cameras off their hands. In most cases, the store would happily give them away for free. Nowadays it&#8217;s not so simple. Few places still develop film on-site. Every single store I&#8217;ve tried so far, Walgreens, Walmart, etc., ship the cameras off to be developed somewhere else. Getting free cameras just doesn&#8217;t work anymore.</p>
+<h3><strong>Is there a solution?</strong></h3>
+<p>There&#8217;s no way to solve this problem for everyone. Some people may still have access to film development centers. However, it&#8217;s a safe bet to assume that many people have no local access to old disposable cameras in bulk. This is because local stores send the film off to be developed elsewhere. Purchasing new disposable cameras is still possible in many stores, but what idiot would spend upwards of four bucks for something they should be able to get for free? Spending money, obviously, is not an option. The solution? <em>Find out where all of the cameras get sent.</em></p>
+<h3><strong>Where do they get sent?</strong></h3>
+<p>I have no idea. But I&#8217;m going to find out. As editor-in-chief and hottest member of Blasted Science, I consider it my duty to solve this mystery. I&#8217;ve spent weeks crawling the darkest corners of the internet and contacting companies, gathering all the information I can. Blasted Science will be updated in real time with all the information I find.</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="/disposable-cameras-too-hard-to-find/">Disposable Cameras Are Too Hard to Find</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/disposable-cameras-too-hard-to-find/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		
+		<series:name><![CDATA[Hunting for Disposable Cameras]]></series:name>
+<post-id xmlns="com-wordpress:feed-additions:1">388</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Requested URI contains query) 
+
+Served from: blastedscience.com @ 2023-08-21 21:45:20 by W3 Total Cache
+-->

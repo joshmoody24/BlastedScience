@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:series="https://publishpress.com/"
+	>
+
+<channel>
+	<title>railroad spike &#8211; Blasted Science</title>
+	<atom:link href="/tag/railroad-spike/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>DIY Projects Done Completely Wrong</description>
+	<lastBuildDate>Sun, 21 Feb 2016 06:09:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">123820757</site>	<item>
+		<title>How to Use Electricity: Wall Power</title>
+		<link>/how-to-use-electricity-wall-power/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=how-to-use-electricity-wall-power</link>
+					<comments>/how-to-use-electricity-wall-power/#comments</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Sat, 20 Feb 2016 20:09:05 +0000</pubDate>
+				<category><![CDATA[Electricity]]></category>
+		<category><![CDATA[High Voltage]]></category>
+		<category><![CDATA[danger]]></category>
+		<category><![CDATA[diy]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[railroad spike]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<guid isPermaLink="false">/?p=269</guid>
+
+					<description><![CDATA[<p>Welcome to How to Use Electricity: a series explaining the important, useful parts of electricity. This series will explain everything you need to know to be able to use it in your own projects.</p>
+<p>The post <a rel="nofollow" href="/how-to-use-electricity-wall-power/">How to Use Electricity: Wall Power</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Welcome to <em>How to Use Electricity</em>: a series explaining the important, useful parts of electricity. This series will explain everything you need to know to be able to use it in your own projects. We&#8217;ve cut out all the fat so we can explain it as simply and quickly as we can.<span id="more-269"></span></p>
+<p>Learning about electricity can be overwhelming. The purpose of this series is to explain the fundamentals of electricity in a simple and practical way. Let&#8217;s get started.</p>
+<h2 style="text-align: center;"><strong>What is Wall Power?</strong></h2>
+<div id="attachment_271" style="width: 160px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2016/02/outlet-303731_960_720.png" rel="attachment wp-att-271"><img aria-describedby="caption-attachment-271" decoding="async" class="wp-image-271 " src="/wp-content/uploads/2016/02/outlet-303731_960_720-189x300.png" alt="Electricity Wall Outlet" width="150" height="238" srcset="/wp-content/uploads/2016/02/outlet-303731_960_720-189x300.png 189w, /wp-content/uploads/2016/02/outlet-303731_960_720-252x400.png 252w, /wp-content/uploads/2016/02/outlet-303731_960_720.png 453w" sizes="(max-width: 150px) 100vw, 150px" /></a><p id="caption-attachment-271" class="wp-caption-text">U.S. Wall Outlet</p></div>
+<p>Also known as mains power, AC power, or household power, this refers to the electricity you get from those little wall sockets you plug everything into. Wall power is by far the most commonly used source of electricity for dangerous DIY projects. This is the only kind of electricity you&#8217;ll need to know about for anything Blasted Science does. In the United States, wall power is 120VAC at 60Hz, with a maximum current of 15A. That&#8217;s a lot of big numbers. We&#8217;ll go into more detail about what that means later in the series, but this essentially means three things about wall power:</p>
+<ul>
+<li>It can kill you.</li>
+<li>It can supply enough power for just about any project you can imagine.</li>
+<li>If you stick one end of a wire into both holes, there will be a big flash and the outlet won&#8217;t work anymore.</li>
+</ul>
+<p>Thankfully, it&#8217;s easy to get the outlet working again. These days, it&#8217;s as easy as opening your fuse box and flipping a switch.</p>
+<h2 style="text-align: center;"><strong>How to Use it</strong></h2>
+<p>First things first: read our article on <a href="/how-to-avoid-being-killed-by-electricity/">electrical safety</a>. Now that you&#8217;re up to speed on the basic dangers of electricity, how do we even use it? We&#8217;ll need a cord that plugs into the wall socket, with the other ends exposed. The easiest way to hack this together is to find an old power cable or something similar and cut off one end with a railroad spike and hammer (or a pair of wire cutters). Inside the main cord there will be two or three smaller wires (Don&#8217;t worry about the one that plugs into the circular bottom hole, we won&#8217;t need it). Strip the ends of the smaller wires and you&#8217;ll have something like this:</p>
+<p><a href="/wp-content/uploads/2016/02/IMG_7245-e1455998785842.jpg" rel="attachment wp-att-278"><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-278" src="/wp-content/uploads/2016/02/IMG_7245-1024x640.jpg" alt="Power Cable" width="800" height="500" /></a></p>
+<p>You&#8217;re done! If you plug the cable into the wall and touch the two ends together, you&#8217;ll get some beautifully bright sparks and a blown fuse. This can already be used as a power supply for a number of projects, but it becomes far more useful with some additional parts. Later posts in this series will go into detail on what this can be used for. Stay tuned!</p>
+<p>The post <a rel="nofollow" href="/how-to-use-electricity-wall-power/">How to Use Electricity: Wall Power</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-to-use-electricity-wall-power/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">269</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Requested URI contains query) 
+
+Served from: blastedscience.com @ 2023-08-21 21:45:43 by W3 Total Cache
+-->

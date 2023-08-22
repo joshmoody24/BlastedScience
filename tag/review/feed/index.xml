@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:series="https://publishpress.com/"
+	>
+
+<channel>
+	<title>review &#8211; Blasted Science</title>
+	<atom:link href="/tag/review/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>DIY Projects Done Completely Wrong</description>
+	<lastBuildDate>Thu, 09 Feb 2017 15:33:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">123820757</site>	<item>
+		<title>We&#8217;ve Changed Our Comment System to Disqus</title>
+		<link>/weve-changed-our-comment-system-to-disqus/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=weve-changed-our-comment-system-to-disqus</link>
+					<comments>/weve-changed-our-comment-system-to-disqus/#comments</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Wed, 08 Feb 2017 20:24:12 +0000</pubDate>
+				<category><![CDATA[Review]]></category>
+		<category><![CDATA[Update]]></category>
+		<category><![CDATA[informational]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[update]]></category>
+		<guid isPermaLink="false">/?p=671</guid>
+
+					<description><![CDATA[<p>As a hipster site, we tried really hard to avoid using Disqus for comments, but we have officially bitten the bullet.</p>
+<p>The post <a rel="nofollow" href="/weve-changed-our-comment-system-to-disqus/">We&#8217;ve Changed Our Comment System to Disqus</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2> <strong>Comments, Comments, Comments</strong></h2>
+<p>As a hipster site, we tried really hard to avoid using Disqus for comments, but we have officially bitten the bullet.</p>
+<p><a href="/wp-content/uploads/2017/02/Disqus_logo_white_on_blue.svg.png"><img decoding="async" class="aligncenter size-large wp-image-677" src="/wp-content/uploads/2017/02/Disqus_logo_white_on_blue.svg-1024x256.png" alt="Disqus" width="800" height="200" srcset="/wp-content/uploads/2017/02/Disqus_logo_white_on_blue.svg-1024x256.png 1024w, /wp-content/uploads/2017/02/Disqus_logo_white_on_blue.svg-300x75.png 300w, /wp-content/uploads/2017/02/Disqus_logo_white_on_blue.svg-400x100.png 400w, /wp-content/uploads/2017/02/Disqus_logo_white_on_blue.svg.png 1280w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<p>As some readers know, Disqus is the most popular comment system for sites like ours. However, we&#8217;re not huge fans of it. We decided to go with Spot.IM for various reasons:</p>
+<ul>
+<li>It loads faster</li>
+<li>It looks pretty</li>
+<li>It&#8217;s super hipster</li>
+</ul>
+<p>However, as time went on, we soon realized that Spot.IM has some major flaws. For one, it doesn&#8217;t show up on Firefox. We have no idea why. Another major problem happened just the other day: a new update to the plugin actually broke comments on our site.</p>
+<div id="attachment_678" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2017/02/Spot.IM-Logo.jpg"><img aria-describedby="caption-attachment-678" decoding="async" loading="lazy" class="wp-image-678 size-large" src="/wp-content/uploads/2017/02/Spot.IM-Logo-1024x409.jpg" alt="Spot.IM" width="800" height="320" srcset="/wp-content/uploads/2017/02/Spot.IM-Logo-1024x409.jpg 1024w, /wp-content/uploads/2017/02/Spot.IM-Logo-300x120.jpg 300w, /wp-content/uploads/2017/02/Spot.IM-Logo-400x160.jpg 400w, /wp-content/uploads/2017/02/Spot.IM-Logo.jpg 1041w" sizes="(max-width: 800px) 100vw, 800px" /></a><p id="caption-attachment-678" class="wp-caption-text">We wanted to love you, Spot.IM</p></div>
+<p>Spot.IM&#8217;s obscurity didn&#8217;t do much to help. There&#8217;s no decent support online, and there&#8217;s little to no documentation at all. It&#8217;s become apparent that Spot.IM is simply poor quality. Goodbye, Spot. We wanted to love you.</p>
+<p>We&#8217;re no fans of Disqus, but it&#8217;s better than the alternative. Sorry for deleting all comments up until now. Our bad.</p>
+<p>The post <a rel="nofollow" href="/weve-changed-our-comment-system-to-disqus/">We&#8217;ve Changed Our Comment System to Disqus</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/weve-changed-our-comment-system-to-disqus/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">671</post-id>	</item>
+		<item>
+		<title>Onion Omega2 Review &#8211; a Pi Zero with a Cool Trick</title>
+		<link>/onion-omega2-review-pi-zero-cool-trick/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=onion-omega2-review-pi-zero-cool-trick</link>
+					<comments>/onion-omega2-review-pi-zero-cool-trick/#respond</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Tue, 07 Feb 2017 23:19:07 +0000</pubDate>
+				<category><![CDATA[Informational]]></category>
+		<category><![CDATA[Review]]></category>
+		<category><![CDATA[diy]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[informational]]></category>
+		<category><![CDATA[low-cost]]></category>
+		<category><![CDATA[review]]></category>
+		<guid isPermaLink="false">/?p=642</guid>
+
+					<description><![CDATA[<p>The Omega2 is one of those increasingly popular single-board computers. It made its debut on Kickstarter last year. Is it any good?</p>
+<p>The post <a rel="nofollow" href="/onion-omega2-review-pi-zero-cool-trick/">Onion Omega2 Review &#8211; a Pi Zero with a Cool Trick</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2><a href="/wp-content/uploads/2017/02/omega2.jpg"><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-654" src="/wp-content/uploads/2017/02/omega2-1024x622.jpg" alt="Onion Omega2" width="800" height="486" srcset="/wp-content/uploads/2017/02/omega2-1024x622.jpg 1024w, /wp-content/uploads/2017/02/omega2-300x182.jpg 300w, /wp-content/uploads/2017/02/omega2-400x243.jpg 400w, /wp-content/uploads/2017/02/omega2.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></a></h2>
+<h2 style="text-align: center;"><strong>Onion Omega2</strong></h2>
+<p>The Omega2 is one of those increasingly popular single-board computers. It made its debut on Kickstarter last year. Is it any good?</p>
+<p>I&#8217;ll be up-front about it. I&#8217;m not the target market for the Omega2. It&#8217;s similar to a Raspberry Pi Zero, but with one big difference: the Zero is designed for, well, doing a lot of things. The Omega2 is designed for IoT. Blasted Science has absolutely no interest in IoT whatsoever, but the price tag was absolutely irresistible at $5.</p>
+<p>Actually, the version I&#8217;m reviewing is the $9 &#8220;Plus&#8221; version. The only difference is that the Plus variant has double the RAM and storage. This review should apply equally well to both models, though. Here&#8217;s the spec sheet:</p>
+<div id="attachment_662" style="width: 690px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2017/02/omega2-specs.png"><img aria-describedby="caption-attachment-662" decoding="async" loading="lazy" class="size-full wp-image-662" src="/wp-content/uploads/2017/02/omega2-specs.png" alt="Omega2 Specs" width="680" height="943" srcset="/wp-content/uploads/2017/02/omega2-specs.png 680w, /wp-content/uploads/2017/02/omega2-specs-216x300.png 216w, /wp-content/uploads/2017/02/omega2-specs-288x400.png 288w" sizes="(max-width: 680px) 100vw, 680px" /></a><p id="caption-attachment-662" class="wp-caption-text">Slower than the Pi Zero, but you don&#8217;t buy these for speed, right?</p></div>
+<h3><strong>Shipping Woes</strong></h3>
+<p>For a brief time, I was very disappointed in Onion&#8217;s shipping ability. It had been more than a month longer than they promised and I still hadn&#8217;t gotten our Omega2. However, it turns out it wasn&#8217;t their problem. I had forgotten to fill out the delivery form on Kickstarter. Oops. My bad.</p>
+<h3><strong>Setup</strong></h3>
+<p>The Omega2 was much more difficult to setup than I thought. To power it via MicroUSB, you need dock, purchased separately. The dock costs twice as much as the computer itself, which is a big disappointment. If the Pi Zero can incorporate USB and keep the price under $5, it seems inexcusable to make it an add-on feature for $10. Being a tightwad, I passed on buying it and decided to build my own power supply. I already had all the parts except one: a voltage regular. <a href="https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&amp;ipn=icep&amp;toolid=20004&amp;campid=5338034714&amp;mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2F10pcs-LM1117T-3-3-LM1117T-LD1117-3-3V-TO-220-Voltage-Regulator-TW-%2F131570795922%3Fhash%3Ditem1ea23b0592%3Ag%3AW0EAAOSwMmBVwBph">I found a pack of 10 on Ebay for cheap.</a></p>
+<p>The power supply isn&#8217;t complicated at all, and is <a href="https://docs.onion.io/omega2-docs/hardware-prep-no-dock.html">well documented.</a> However, it still gave me a bunch of problems, which once again were likely my fault. The Omega2 would start booting up, but the power light would turn off after 10-20 seconds. After spending hours trying to isolate the problem, I discovered it was my power supply. As a quick hack, I swapped out a broken-out phone charger with 4 AA batteries. Success!</p>
+<div id="attachment_655" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2017/02/Power-supply.jpg"><img aria-describedby="caption-attachment-655" decoding="async" loading="lazy" class="size-large wp-image-655" src="/wp-content/uploads/2017/02/Power-supply-1024x683.jpg" alt="Power Supply" width="800" height="534" srcset="/wp-content/uploads/2017/02/Power-supply-1024x683.jpg 1024w, /wp-content/uploads/2017/02/Power-supply-300x200.jpg 300w, /wp-content/uploads/2017/02/Power-supply-400x267.jpg 400w, /wp-content/uploads/2017/02/Power-supply.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></a><p id="caption-attachment-655" class="wp-caption-text">My messy, homemade Omega2 power supply. It&#8217;s simpler than it looks.</p></div>
+<p>The setup process is surprisingly simple and well-designed. You interact with the Omega2 via another computer; connecting it to the Omega2 via Wifi. You simply point your web browser at a specific IP address and the setup can begin. All you have to do is give it your Wifi password, and you&#8217;re done. Optionally, you can update your device&#8217;s firmware and install the &#8220;console&#8221;. After that, you&#8217;re ready to begin using it.</p>
+<h3><strong>Usage</strong></h3>
+<p>One advantage the Omega2 has over any Raspberry Pi is that it comes with 32Mb of storage (64Mb for the Plus); this allows it to run a full Linux installation out of the box, no microSD card required. While it&#8217;s by no means a sizable amount of storage, it&#8217;s enough for basic functionality. Fortunately, it does have a microSD slot.</p>
+<div id="attachment_656" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2017/02/omega-2-underside.jpg"><img aria-describedby="caption-attachment-656" decoding="async" loading="lazy" class="size-large wp-image-656" src="/wp-content/uploads/2017/02/omega-2-underside-1024x683.jpg" alt="Omega2 Underside" width="800" height="534" srcset="/wp-content/uploads/2017/02/omega-2-underside-1024x683.jpg 1024w, /wp-content/uploads/2017/02/omega-2-underside-300x200.jpg 300w, /wp-content/uploads/2017/02/omega-2-underside-400x267.jpg 400w, /wp-content/uploads/2017/02/omega-2-underside.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></a><p id="caption-attachment-656" class="wp-caption-text">The underside of the Omega2</p></div>
+<p>You can interact with the Omega2 via SSH or serial, but I didn&#8217;t try either one. The simplest method of interaction is via the same IP address used for setup. If you choose to install the console, you get a good-looking web interface loaded with a few useful apps.</p>
+<div id="attachment_660" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2017/02/onion-console.jpg"><img aria-describedby="caption-attachment-660" decoding="async" loading="lazy" class="size-large wp-image-660" src="/wp-content/uploads/2017/02/onion-console-1024x597.jpg" alt="Onion Console" width="800" height="466" srcset="/wp-content/uploads/2017/02/onion-console-1024x597.jpg 1024w, /wp-content/uploads/2017/02/onion-console-300x175.jpg 300w, /wp-content/uploads/2017/02/onion-console-400x233.jpg 400w, /wp-content/uploads/2017/02/onion-console.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></a><p id="caption-attachment-660" class="wp-caption-text">Kinda reminds me of Ubuntu</p></div>
+<p>To reiterate, I have no interest in actually using this device for IoT. I poked around the various apps, but have no real use for any of it. I did install Python and test a few lines of code, but that&#8217;s been the extent of my testing so far.</p>
+<h3><strong>The Bottom Line</strong></h3>
+<p>The Omega2 is a well-designed, low-cost Raspberry Pi competitor, although its cheap price rises quickly with the addition of basically-required accessories. It&#8217;s also pretty good at doing IoT things. Probably. I wouldn&#8217;t know. But it&#8217;s cool. It made a fine addition to my collection.</p>
+<div id="attachment_658" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2017/02/omega2-c.jpg"><img aria-describedby="caption-attachment-658" decoding="async" loading="lazy" class="size-large wp-image-658" src="/wp-content/uploads/2017/02/omega2-c-1024x740.jpg" alt="Onion Omega2" width="800" height="578" srcset="/wp-content/uploads/2017/02/omega2-c-1024x740.jpg 1024w, /wp-content/uploads/2017/02/omega2-c-300x217.jpg 300w, /wp-content/uploads/2017/02/omega2-c-400x289.jpg 400w, /wp-content/uploads/2017/02/omega2-c.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></a><p id="caption-attachment-658" class="wp-caption-text">A pretty snazzy little machine. I bet it works just fine.</p></div>
+<p>Various accessories for the Omega2 can be purchased at the official <a href="https://onion.io/store/">store.</a></p>
+<p>The post <a rel="nofollow" href="/onion-omega2-review-pi-zero-cool-trick/">Onion Omega2 Review &#8211; a Pi Zero with a Cool Trick</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/onion-omega2-review-pi-zero-cool-trick/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">642</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Requested URI contains query) 
+
+Served from: blastedscience.com @ 2023-08-21 21:45:28 by W3 Total Cache
+-->

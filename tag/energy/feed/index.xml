@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:series="https://publishpress.com/"
+	>
+
+<channel>
+	<title>energy &#8211; Blasted Science</title>
+	<atom:link href="/tag/energy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>DIY Projects Done Completely Wrong</description>
+	<lastBuildDate>Thu, 12 May 2016 23:02:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">123820757</site>	<item>
+		<title>How to Use Electricity: The Basics</title>
+		<link>/how-to-use-electricity-the-basics/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=how-to-use-electricity-the-basics</link>
+					<comments>/how-to-use-electricity-the-basics/#respond</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Thu, 12 May 2016 23:01:25 +0000</pubDate>
+				<category><![CDATA[Electricity]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Informational]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[high voltage]]></category>
+		<guid isPermaLink="false">/?p=368</guid>
+
+					<description><![CDATA[<p>We're going to pretend you're completely clueless and are going to start with explaining electricity at its most basic.</p>
+<p>The post <a rel="nofollow" href="/how-to-use-electricity-the-basics/">How to Use Electricity: The Basics</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" class="aligncenter size-full wp-image-377" src="/wp-content/uploads/2016/05/TheBasics.png" alt="How to Use Electricity: The Basics" width="1280" height="720" srcset="/wp-content/uploads/2016/05/TheBasics.png 1280w, /wp-content/uploads/2016/05/TheBasics-300x169.png 300w, /wp-content/uploads/2016/05/TheBasics-1024x576.png 1024w, /wp-content/uploads/2016/05/TheBasics-400x225.png 400w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p>How to Use Electricity is an educational series of posts designed to help teach you practical applications of electricity in DIY projects.</p>
+<p>If you read our <a href="/how-to-use-electricity-wall-power/">last post</a> in this series, you will have read this paragraph:</p>
+<blockquote><p>Learning about electricity can be overwhelming. The purpose of this series is to explain the fundamentals of electricity in a simple and practical way. Let&#8217;s get started.</p></blockquote>
+<p>But we don&#8217;t think we did a very good job. (&#8220;We&#8221; is the word &#8220;we&#8221; use when &#8220;we&#8221; want to spread the blame.) So we&#8217;re taking a step back.</p>
+<p>Our last tutorial was a basic introduction to a practical use of electricity, but in retrospect, that probably wasn&#8217;t the best way to begin a tutorial series. Anyone who’s ever taken a high school physics class has a fairly solid understanding of electricity. So, with that fact in mind, we&#8217;re going to pretend you&#8217;re completely clueless and are going to start with explaining electricity at its most basic.</p>
+<h2><strong>What is Electricity?</strong></h2>
+<p>Science aside, electricity is can be one of two things: either it charges your phone or it makes some massive sparks that will permanently ruin flint and steel for you.</p>
+<p>There are two broad categories of electricity: static and current.</p>
+<h3><strong>Static</strong></h3>
+<p>Static electricity is pretty cool, but we’re not going to talk about it. Here&#8217;s a tutorial by Nighthawkinlight that explains how to make a static electricity generator.</p>
+<p><iframe loading="lazy" src="//www.youtube.com/embed/P5za9sa4-qk" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
+<p>If you clicked a link to this post because you wanted to find out what static electricity is, you&#8217;re in the wrong place. The only possible project that uses it has already been made. And you just watched it.</p>
+<h3><strong>Current</strong></h3>
+<p>Current electricity refers to electrons <i>moving</i> (as opposed to static electricity, in which electrons stay in the same place and make your hair stand up). This nifty stuff has the look, taste, and consistency of lemonade.</p>
+<div id="attachment_380" style="width: 475px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-380" decoding="async" loading="lazy" class=" wp-image-380" src="/wp-content/uploads/2016/05/Lemon-1024x1013.jpg" alt="Lemon" width="465" height="460" srcset="/wp-content/uploads/2016/05/Lemon-1024x1013.jpg 1024w, /wp-content/uploads/2016/05/Lemon-300x297.jpg 300w, /wp-content/uploads/2016/05/Lemon-400x396.jpg 400w, /wp-content/uploads/2016/05/Lemon.jpg 1920w" sizes="(max-width: 465px) 100vw, 465px" /><p id="caption-attachment-380" class="wp-caption-text">A lithium-ion battery</p></div>
+<p>The most notable use of current electricity is made possible by the walls of your house. As you probably already knew (because you&#8217;ve read our <a href="/how-to-use-electricity-wall-power/">previous post</a>), those little, circular wall outlets are responsible for everything from mowing your lawn to spreading the butter evenly over your second helping of toast. Essentially, you owe your life to these angels in disguise. However, at Blasted Science, we don&#8217;t care about life. We are much more interested in danger. And we’ll let you play along.</p>
+<h2><strong>Experiment</strong></h2>
+<p>Here&#8217;s a simple, educational project you can do at home:</p>
+<ol>
+<li>Put on half a pair of thick leather gloves.</li>
+<li>In your newly insulated hand, place a piece of wire.</li>
+<li>Insert one end of the wire into the left hole of the wall socket (be careful not to let the wire touch your skin. This is what the glove is for.)</li>
+<li>Stick the other end of the wire into the right hole of the wall socket.</li>
+<li>Try not to flinch.</li>
+</ol>
+<h3><strong>What can we learn from this project?</strong></h3>
+<p>Electricity is roughly ten times more entertaining when used incorrectly. That figure is accurate to within a factor of ten, depending on how bright the sparks get. In this example, you probably saw a fairly bright, short-lived, blue spark accompanied by a loud popping sound.</p>
+<h3><strong>Why did the spark go away?</strong></h3>
+<p>If too much current tries to come out of the wall outlet, the power gets shut off. Placing the wire into both holes short-circuited the wall outlet, which then tried to draw <i>way</i> too much current. The current flows for a fraction of a second before the fuse box snapped the puny socket’s neck, in exactly the way a murderer in rehab wouldn’t.</p>
+<h3><strong>Why did the power in half my house just go out?</strong></h3>
+<p>As explained above, drawing too much power will shut off the current. Often, the power to the surrounding portion of your house will also be shut off.<sup>[citation needed]</sup> At least, we&#8217;re pretty sure that happens. Honestly, that might not be the case at all. We&#8217;re too lazy to test it. To fix this, locate your fuse box, open it, and flip random switches until everything is working again. Save any open documents on your computer before trying this.</p>
+<h3><strong>Are the gloves absolutely necessary?</strong></h3>
+<p>Technically you only need <em>one</em> glove. But, yes, that glove is absolutely necessary. It&#8217;s also important to note that the glove needs to be on the hand that is holding the wire. Otherwise it&#8217;s <em>possible</em> that you&#8217;ll feel a mildly excruciating tingly sensation that causes some serious damage to your hand. Don&#8217;t you dare do this and try to sue us! You will get hurt. We do not advise trying this. Sarcasm can&#8217;t protect you from 120 volts. Also, we don&#8217;t have any money, so that would get awkward fast.</p>
+<h3><strong>In conclusion</strong></h3>
+<p>Ignorance is bliss, and we aren’t going to take that away from you.</p>
+<p>The post <a rel="nofollow" href="/how-to-use-electricity-the-basics/">How to Use Electricity: The Basics</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-to-use-electricity-the-basics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">368</post-id>	</item>
+		<item>
+		<title>Alternative Energy: Ocean Energy</title>
+		<link>/alternative-energy-ocean-energy/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=alternative-energy-ocean-energy</link>
+					<comments>/alternative-energy-ocean-energy/#respond</comments>
+		
+		<dc:creator><![CDATA[Justin Bowser]]></dc:creator>
+		<pubDate>Fri, 01 Apr 2016 05:24:09 +0000</pubDate>
+				<category><![CDATA[Informational]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[energy]]></category>
+		<guid isPermaLink="false">/?p=324</guid>
+
+					<description><![CDATA[<p>This is the first of an article series on totally wacky and sometimes reasonable alternative energy sources.</p>
+<p>The post <a rel="nofollow" href="/alternative-energy-ocean-energy/">Alternative Energy: Ocean Energy</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="width: 2510px" class="wp-caption aligncenter"><a href="https://upload.wikimedia.org/wikipedia/commons/1/10/Schneebergerhof_01.jpg"><img decoding="async" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Schneebergerhof_01.jpg" alt="solar and wind power" width="2500" height="2500" /></a><p class="wp-caption-text">Alternative energy</p></div>
+<p>This is the first of an article series on totally wacky and sometimes reasonable alternative energy sources. Ocean energy is one of the reasonable ones. (I&#8217;m assuming you read Blasted Science for entertainment. If you&#8217;re actually trying to learn something, you should look elsewhere. Now shut up and read my <del>chemistry essay</del> article)</p>
+<p>Fossil fuels are the backbone of our energy-guzzling society. Fossil fuels are also the backbone of a dinosaur. The term &#8220;fossil fuels&#8221; refers to a category of energy sources that are nonrenewable and mostly made of dead things. Coal, natural gas, crude oil, and dinosaurs are all examples of fossil fuels. For instance, the electricity being used by the electronic device you&#8217;re using to read this article was probably generated by a dinosaur.</p>
+<p>As much as it pains me type, fossil fuels are running out. If this happens, power companies will have to resort to using large employee-powered hamster wheels to generate electricity. Obviously, we can&#8217;t let this happen! Hamsters and unions would violently protest. To avoid this nightmare scenario, we need to come up with ways of powering our gadgets without damaging fossils.</p>
+<h2><span style="line-height: 1.5;">Ocean Energy</span></h2>
+<p>One unknown but fairly practical source of energy is our oceans. Since the Earth&#8217;s surface is around seventy percent water, you can collect it from almost anywhere and use it on a wide scale. There are three different types of ocean energy: wave energy, tidal energy, and ocean thermal energy conversion.</p>
+<h2>Wave Energy</h2>
+<p><a href="http://www.boem.gov/Renewable-Energy-Program/Renewable-Energy-Guide/Ocean-Wave-Energy.aspx">Wave energy</a> is produced by—you guessed it—waves. It is completely renewable, widely available, eco-friendly, and dinosaur-friendly. Produced by placing ship-like structures out in the ocean, these structures use their buoyancy to rise and fall with the waves. Then, they take the kinetic energy of the wave and convert it into electrical energy, much like the generators in the Hoover Dam. There are downsides though: it could affect the marine ecosystem, it’s dependent on wavelength, and could cause disturbances to other boats; commercial and private.</p>
+<div style="width: 1610px" class="wp-caption aligncenter"><a href="https://upload.wikimedia.org/wikipedia/commons/c/ce/WaveDragon.JPG"><img decoding="async" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/WaveDragon.JPG" alt="Ocean energy generator &quot;Wave Dragon&quot;" width="1600" height="1200" /></a><p class="wp-caption-text"><a href="http://www.wavedragon.net/">Wave Dragon</a></p></div>
+<h2>Tidal Energy</h2>
+<p><a href="https://en.wikipedia.org/wiki/Tidal_power">Tidal energy</a> uses the kinetic energy of tides (not waves) and converts it into electrical energy. It’s renewable and can produce electricity on a large scale. Tides are also more predictable than waves, which probably affects something in some beneficial way. Although it follows the same principle of kinetic/electrical conversion, tidal uses a different approach. Instead of using the rising and falling of waves, it uses turbines, in similar fashion to windmills. Moving tides carry a lot of force. That, in turn, moves the turbines, which generate electricity. Although it can hurt the land, cause disturbances to boats, and chop up fish like kale in a vegan&#8217;s blender, compared to dinosaurs this option sounds positively heartwarming.</p>
+<div style="width: 4282px" class="wp-caption aligncenter"><a href="https://upload.wikimedia.org/wikipedia/commons/e/e9/SeaGen,_Strangford,_June_2011_(02).JPG"><img decoding="async" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/SeaGen,_Strangford,_June_2011_(02).JPG" alt="ocean energy: &quot;tide mill&quot;" width="4272" height="2848" /></a><p class="wp-caption-text">Tidal Energy &#8220;Tide Mill&#8221;</p></div>
+<h2>Ocean Thermal Energy Conversion</h2>
+<p><a href="https://en.wikipedia.org/wiki/Ocean_thermal_energy_conversion">Ocean thermal energy conversion</a> (OTEC for short) is different than the others, obviously implying that it&#8217;s more useful (think Rudolph).  As the name implies, it converts the thermal energy of the ocean into electrical energy. This is how it works, the sun beams down onto the water, and as it sends energy into the ocean, it excites the water molecules, causing them to warm up. Then the machine (which looks a lot like an oil rig) takes the warm surface water and cold deep water into heat exchangers, which generate electricity. It is one of the continuously available renewable energy resources. It can potentially generate up to 88,000 terrawatt-hours/yr of power. There are two types of OTEC: open- or closed-cycle. Closed-cycle generators use refrigerant fluids, such as ammonia. These fluids have low boiling points and that makes them suitable for powering the generator. Open-cycle generators use sea water vapor to work as the fluid instead of the refrigerants.</p>
+<div style="width: 410px" class="wp-caption aligncenter"><a href="https://upload.wikimedia.org/wikipedia/commons/3/37/Otec_produkty-2_(English).png"><img decoding="async" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Otec_produkty-2_(English).png" alt="Ocean thermal energy conversion diagram" width="400" height="303" /></a><p class="wp-caption-text">OTEC Diagram</p></div>
+<p>I think that Ocean energy could be the next big source of energy. It seems practical even though it may have some difficulties connected to it. Ocean energy can and will bring energy to everybody and everything. Say goodbye to dinosaurs. Welcome to the Future.</p>
+<p>The post <a rel="nofollow" href="/alternative-energy-ocean-energy/">Alternative Energy: Ocean Energy</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/alternative-energy-ocean-energy/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">324</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Requested URI contains query) 
+
+Served from: blastedscience.com @ 2023-08-21 21:45:38 by W3 Total Cache
+-->

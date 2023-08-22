@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:series="https://publishpress.com/"
+	>
+
+<channel>
+	<title>public domain &#8211; Blasted Science</title>
+	<atom:link href="/tag/public-domain/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>DIY Projects Done Completely Wrong</description>
+	<lastBuildDate>Mon, 05 Jul 2021 21:04:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">123820757</site>	<item>
+		<title>Introducing GameAsset.org: a site for sharing public domain video game art and music</title>
+		<link>/gameasset-announcement/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=gameasset-announcement</link>
+					<comments>/gameasset-announcement/#respond</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 20:53:07 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[game assets]]></category>
+		<category><![CDATA[public domain]]></category>
+		<category><![CDATA[website]]></category>
+		<guid isPermaLink="false">/?p=912</guid>
+
+					<description><![CDATA[<p>Introducing a new website from the creator of Blasted Science. GameAsset.org is a free platform for sharing public domain video game art and music.</p>
+<p>The post <a rel="nofollow" href="/gameasset-announcement/">Introducing GameAsset.org: a site for sharing public domain video game art and music</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h1>A new website from the creator of Blasted Science</h1>
+<p><img decoding="async" class="aligncenter size-full wp-image-916" src="/wp-content/uploads/2021/07/gameasset-screenshot-1.png" alt="Game Asset Screenshot" width="1280" height="507" srcset="/wp-content/uploads/2021/07/gameasset-screenshot-1.png 1280w, /wp-content/uploads/2021/07/gameasset-screenshot-1-300x119.png 300w, /wp-content/uploads/2021/07/gameasset-screenshot-1-1024x405.png 1024w, /wp-content/uploads/2021/07/gameasset-screenshot-1-400x158.png 400w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p>I’ve been making video games since I was in elementary school. My game dev career culminated in the game <a href="http://memetownusa.com/">Memetown USA</a>, which I released on Steam in the summer of 2018.</p>
+<p>It wasn’t easy to make an entire game by myself. I simply didn’t have the time to create all the sprites, textures, models, music, and sound effects by myself. Instead, I resorted to using pre-made assets I found online.</p>
+<p>This proved to be a big challenge. First of all, I had a budget of $0, which meant I could only use assets available for free. Unfortunately, it’s difficult to find high-quality free assets; many of them are scattered around the internet on small personal websites, without any easy way to locate them.</p>
+<p>Furthermore, the licenses attached to these assets almost always requires attribution, which I personally find annoying. I found it too tedious to keep track of the author of every tiny sound effect used in my game, so, for the most part, I only used public domain assets — ones that lack any form of copyright. Unfortunately, public domain game assets aren’t easy to find! Very few exist, and the ones that do are generally low quality. I decided to change that.</p>
+<h2>Finally, a solution!</h2>
+<p>Earlier this year, <a href="https://store.steampowered.com/news/app/911100/view/2935743950708195896">I dedicated Memetown USA to the public domain</a>, meaning that all my code, art, music, etc. is freely available online and can be used for any purpose. I hope my content can help other small-time game developers in their work. I also want to make it easy for other developers to contribute to the public domain.</p>
+<p>That&#8217;s why I created <a href="http://gameasset.org/">GameAsset.org</a> — it’s a site where anyone can upload their creative work and dedicate it to the public domain. It’s intentionally designed to be a smooth, simple, and streamlined process with no strings attached. All you need is an account and then you can upload your assets to the site in just a few clicks.</p>
+<p><img decoding="async" loading="lazy" class="aligncenter wp-image-915 size-full" title="Game Asset Homepage" src="/wp-content/uploads/2021/07/game-asset-screenshot-2.png" alt="Game Asset Homepage" width="1280" height="632" srcset="/wp-content/uploads/2021/07/game-asset-screenshot-2.png 1280w, /wp-content/uploads/2021/07/game-asset-screenshot-2-300x148.png 300w, /wp-content/uploads/2021/07/game-asset-screenshot-2-1024x506.png 1024w, /wp-content/uploads/2021/07/game-asset-screenshot-2-400x198.png 400w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p>Additionally, the site has a powerful search functionality so that creators can easily locate exactly the type of asset they are looking for.</p>
+<p>If you’re a game developer in need of free assets, or if you have assets that you can add to the public domain, I highly encourage giving my site a look. I’m sure my site will help you out!</p>
+<p>The post <a rel="nofollow" href="/gameasset-announcement/">Introducing GameAsset.org: a site for sharing public domain video game art and music</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gameasset-announcement/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">912</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Requested URI contains query) 
+
+Served from: blastedscience.com @ 2023-08-21 21:45:04 by W3 Total Cache
+-->

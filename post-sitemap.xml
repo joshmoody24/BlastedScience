@@ -1,0 +1,546 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>/</loc>
+	</url>
+	<url>
+		<loc>/how-to-use-electricity-wall-power/</loc>
+		<lastmod>2016-02-20T23:09:21-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/02/electricity-wall-power.png</image:loc>
+			<image:title><![CDATA[electricity wall power]]></image:title>
+			<image:caption><![CDATA[Wall Power]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/02/outlet-303731_960_720.png</image:loc>
+			<image:caption><![CDATA[Electricity Wall Outlet]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/02/IMG_7245-e1455998785842.jpg</image:loc>
+			<image:caption><![CDATA[Power Cable]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/lasers-obey-laws-physics/</loc>
+		<lastmod>2016-02-20T23:12:02-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/02/IMG_20151021_144548999-e1454944596271.jpg</image:loc>
+			<image:title><![CDATA[IMG_20151021_144548999]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/02/IMG_20151021_172316098-e1454943923735.jpg</image:loc>
+			<image:caption><![CDATA[Yellow laser]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/02/IMG_20151021_172510986-e1454944431423.jpg</image:loc>
+			<image:caption><![CDATA[Aquamarine laser]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/02/IMG_20151021_172254359-e1454944387353.jpg</image:loc>
+			<image:caption><![CDATA[Purple laser]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/02/IMG_20151021_144504703-e1454944509578.jpg</image:loc>
+			<image:caption><![CDATA[Combination of lasers]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/tesla-coils/</loc>
+		<lastmod>2016-02-20T23:15:43-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/02/TeslaCoil.jpg</image:loc>
+			<image:title><![CDATA[TeslaCoil]]></image:title>
+			<image:caption><![CDATA[Tesla Coil]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-avoid-being-killed-by-electricity/</loc>
+		<lastmod>2016-02-20T23:17:54-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/02/Warning-Electricity.gif</image:loc>
+			<image:title><![CDATA[Warning Electricity]]></image:title>
+			<image:caption><![CDATA[Electricity Warning Sign]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/information-about-our-plans-and-schedule/</loc>
+		<lastmod>2016-02-27T11:17:06-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/02/youtube-logo.jpg</image:loc>
+			<image:title><![CDATA[youtube-logo]]></image:title>
+			<image:caption><![CDATA[YouTube Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/what-is-blasted-science/</loc>
+		<lastmod>2016-03-02T15:47:29-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/03/What-is-Blasted-Science.gif</image:loc>
+			<image:title><![CDATA[What is Blasted Science]]></image:title>
+			<image:caption><![CDATA[What is Blasted Science?]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/03/What-is-Blasted-Science.gif</image:loc>
+			<image:caption><![CDATA[What is Blasted Science?]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/alternative-energy-ocean-energy/</loc>
+		<lastmod>2016-04-03T22:55:05-06:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/03/Ocean-Energy.jpg</image:loc>
+			<image:title><![CDATA[Ocean Energy]]></image:title>
+			<image:caption><![CDATA[Ocean Energy]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-use-electricity-the-basics/</loc>
+		<lastmod>2016-05-12T17:02:38-06:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/05/TheBasics.png</image:loc>
+			<image:title><![CDATA[The Basics]]></image:title>
+			<image:caption><![CDATA[How to Use Electricity: The Basics]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/05/TheBasics.png</image:loc>
+			<image:caption><![CDATA[How to Use Electricity: The Basics]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/05/Lemon.jpg</image:loc>
+			<image:caption><![CDATA[Lemon]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/disposable-cameras-too-hard-to-find/</loc>
+		<lastmod>2016-05-24T21:10:36-06:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/05/Kodak.png</image:loc>
+			<image:title><![CDATA[Kodak]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/05/Kodak.png</image:loc>
+			<image:caption><![CDATA[Kodak]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/hunting-disposable-cameras-locating-them/</loc>
+		<lastmod>2016-05-26T19:40:00-06:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/05/DwaynesMap-e1479009947524.jpg</image:loc>
+			<image:title><![CDATA[DwaynesMap]]></image:title>
+			<image:caption><![CDATA[Dwayne's Photo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/05/DwaynesMap-e1479009947524.jpg</image:loc>
+			<image:caption><![CDATA[Dwayne's Photo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/05/DwaynesPhotoWorldView.png</image:loc>
+			<image:caption><![CDATA[Dwayne's Photo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/05/Secret.jpg</image:loc>
+			<image:caption><![CDATA[Fujifilm USA web site]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/asking-companies-disposable-cameras/</loc>
+		<lastmod>2016-11-12T23:53:34-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/05/WalgreensContact-e1479009967918.png</image:loc>
+			<image:title><![CDATA[WalgreensContact]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/05/WalgreensContact.png</image:loc>
+			<image:caption><![CDATA[Walgreens Contact]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blasted-science-officially-endorses-this-software/</loc>
+		<lastmod>2016-11-21T17:53:57-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/11/steganography-title-image.png</image:loc>
+			<image:title><![CDATA[steganography-title-image]]></image:title>
+			<image:caption><![CDATA[Steganography]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/11/steganography-title-image.png</image:loc>
+			<image:caption><![CDATA[Steganography]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/11/hideinpicture.png</image:loc>
+			<image:caption><![CDATA[hideinpicture]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/11/xiao-steganography-2.png</image:loc>
+			<image:caption><![CDATA[xiao-steganography-2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/top-5-more-household-items-to-turn-into-weapons/</loc>
+		<lastmod>2016-11-26T10:25:52-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/11/top5weaponsmorev2.png</image:loc>
+			<image:title><![CDATA[top5weaponsmorev2]]></image:title>
+			<image:caption><![CDATA[More Weapons]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/11/Thermic-Lance-1.gif</image:loc>
+			<image:caption><![CDATA[Thermic Lance]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/11/etch-a-sketch-e1479857567215.jpg</image:loc>
+			<image:caption><![CDATA[Etch a Sketch]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/11/Drano-e1479858598636.jpg</image:loc>
+			<image:caption><![CDATA[Drano Balloon]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/11/Screenshot_20161126-095816-e1480179659619.png</image:loc>
+			<image:caption><![CDATA[Arc Furnace]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/top-5-common-household-items-that-can-be-turned-into-weapons/</loc>
+		<lastmod>2016-11-26T10:38:15-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/02/5weaponstitle.png</image:loc>
+			<image:title><![CDATA[5weaponstitle]]></image:title>
+			<image:caption><![CDATA[5 Weapons]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/02/IMG_20151031_215026529.jpg</image:loc>
+			<image:caption><![CDATA[Burning Red Laser]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/02/IMG_7108.jpg</image:loc>
+			<image:caption><![CDATA[Mason Jar of Napalm]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/02/IMG_7083.jpg</image:loc>
+			<image:caption><![CDATA[Napalm Can]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/02/4786885507_46bbaa1208_b-e1454433253465.jpg</image:loc>
+			<image:caption><![CDATA[Disposable Camera]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/02/flamethrower-e1454478349377.gif</image:loc>
+			<image:caption><![CDATA[flamethrower]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/new-video-napalm-soccer/</loc>
+		<lastmod>2017-02-06T12:53:15-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/maxresdefault.jpg</image:loc>
+			<image:title><![CDATA[Napalm Soccer]]></image:title>
+			<image:caption><![CDATA[Napalm Soccer]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/our-political-agenda/</loc>
+		<lastmod>2017-02-06T13:19:49-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/corruption.jpg</image:loc>
+			<image:title><![CDATA[corruption]]></image:title>
+			<image:caption><![CDATA[Corruption]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/corruption.jpg</image:loc>
+			<image:caption><![CDATA[Political Corruption]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/Zolt_Transhumanist_Party_shirt-338x600.jpg</image:loc>
+			<image:caption><![CDATA[Zoltan Istvan]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/new-video-blasted-science-documentary-dangerous-diy-projects/</loc>
+		<lastmod>2017-02-06T13:20:54-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/Documentary.png</image:loc>
+			<image:title><![CDATA[Documentary]]></image:title>
+			<image:caption><![CDATA[Documentary Thumbnail]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/transparency-report-what-weve-been-up-to-recently/</loc>
+		<lastmod>2017-02-06T13:21:20-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/01/Quarterly-Report2.png</image:loc>
+			<image:title><![CDATA[Quarterly Report]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/01/Quarterly-Report2.png</image:loc>
+			<image:caption><![CDATA[Quarterly Report]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/01/postGraph.png</image:loc>
+			<image:caption><![CDATA[Posts by Author]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/onion-omega2-review-pi-zero-cool-trick/</loc>
+		<lastmod>2017-02-07T16:23:20-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/omega2.jpg</image:loc>
+			<image:title><![CDATA[omega2]]></image:title>
+			<image:caption><![CDATA[Onion Omega2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/omega2.jpg</image:loc>
+			<image:caption><![CDATA[Onion Omega2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/omega2-specs.png</image:loc>
+			<image:caption><![CDATA[Omega2 Specs]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/Power-supply.jpg</image:loc>
+			<image:caption><![CDATA[Power Supply]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/omega-2-underside.jpg</image:loc>
+			<image:caption><![CDATA[Omega2 Underside]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/onion-console.jpg</image:loc>
+			<image:caption><![CDATA[Onion Console]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/omega2-c.jpg</image:loc>
+			<image:caption><![CDATA[Onion Omega2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/weve-changed-our-comment-system-to-disqus/</loc>
+		<lastmod>2017-02-09T08:33:28-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/disqus-logo.png</image:loc>
+			<image:title><![CDATA[disqus logo]]></image:title>
+			<image:caption><![CDATA[Disqus Logo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/Disqus_logo_white_on_blue.svg.png</image:loc>
+			<image:caption><![CDATA[Disqus]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/Spot.IM-Logo.jpg</image:loc>
+			<image:caption><![CDATA[Spot.IM]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-tablet-build-for-you/</loc>
+		<lastmod>2017-02-09T09:58:07-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/02/tablet-812708_960_720.png</image:loc>
+			<image:title><![CDATA[tablet-812708_960_720]]></image:title>
+			<image:caption><![CDATA[Tablet Cartoon]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/02/tablet-812708_960_720.png</image:loc>
+			<image:caption><![CDATA[Tablet Cartoon]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/new-video-official-music-video/</loc>
+		<lastmod>2017-02-13T08:48:43-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/music-video-thumbnail.jpg</image:loc>
+			<image:title><![CDATA[music video thumbnail]]></image:title>
+			<image:caption><![CDATA[Music Video]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/nuclear-energy-not/</loc>
+		<lastmod>2017-02-17T08:35:17-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/nuclear-thumbnail-copy.png</image:loc>
+			<image:title><![CDATA[nuclear thumbnail copy]]></image:title>
+			<image:caption><![CDATA[Nuclear Power? Yes]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/Chooz_Nuclear_Power_Plant-9361.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blasted-science-extends-a-warm-welcome-to-a-new-member/</loc>
+		<lastmod>2017-02-22T16:51:31-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/Sam-New-Foe-Thumbnail.png</image:loc>
+			<image:title><![CDATA[Sam New Foe Thumbnail]]></image:title>
+			<image:caption><![CDATA[Sam Henry]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/Sam-New-Foe-Thumbnail.png</image:loc>
+			<image:caption><![CDATA[Sam Henry]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/Sam-Henry-as-Lenin.jpg</image:loc>
+			<image:caption><![CDATA[Sam Henry's Great-Grandfather]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/Sam-Henry-as-Camel.jpg</image:loc>
+			<image:caption><![CDATA[Sam Henry's Camel Parent]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/IMG_20160921_113309_163.jpg</image:loc>
+			<image:caption><![CDATA[Sammel Henry]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/here-have-a-free-game/</loc>
+		<lastmod>2017-02-23T13:55:47-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/11/Thumbnail.png</image:loc>
+			<image:title><![CDATA[thumbnail]]></image:title>
+			<image:caption><![CDATA[Overset game title]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/11/Thumbnail.png</image:loc>
+			<image:caption><![CDATA[Overset game title]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/11/bathroom-xqfkw4nd.png</image:loc>
+			<image:caption><![CDATA[Overset game bathroom screenshot]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/possible-foreshadowing-failed-jacobs-ladder-experiment/</loc>
+		<lastmod>2017-03-20T09:09:17-06:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/imminent-death-finaler.png</image:loc>
+			<image:title><![CDATA[imminent death finaler]]></image:title>
+			<image:caption><![CDATA[Imminent Death]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/imminent-death-finaler.png</image:loc>
+			<image:caption><![CDATA[Imminent Death]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/02/wp-1487781213609.jpg</image:loc>
+			<image:caption><![CDATA[Jacob's Ladder]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/new-video-super-juicy-jacobs-ladder-bonus-video/</loc>
+		<lastmod>2017-04-13T14:04:58-06:00</lastmod>
+	</url>
+	<url>
+		<loc>/new-video-make-20000-volt-jacobs-ladder-sort/</loc>
+		<lastmod>2017-04-14T13:03:11-06:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/04/Jacobs-Ladder-Thumbnail.jpg</image:loc>
+			<image:title><![CDATA[Jacobs Ladder Thumbnail]]></image:title>
+			<image:caption><![CDATA[Jacob's Ladder Thumbnail]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/new-video-make-napalm-gasoline-styrofoam/</loc>
+		<lastmod>2017-04-26T08:37:49-06:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/04/napalm-tutorial-thumbnail.jpg</image:loc>
+			<image:title><![CDATA[napalm tutorial thumbnail]]></image:title>
+			<image:caption><![CDATA[Napalm Tutorial Thumbnail]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/new-video-burning-napalm/</loc>
+		<lastmod>2017-04-26T08:55:06-06:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/04/burning-napalm.jpg</image:loc>
+			<image:title><![CDATA[burning napalm]]></image:title>
+			<image:caption><![CDATA[Burning Napalm Thumbnail]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/new-video-how-to-make-rocket-engines-from-scratch/</loc>
+		<lastmod>2017-09-07T09:13:55-06:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/05/rocket-thumbnail.jpg</image:loc>
+			<image:title><![CDATA[rocket thumbnail]]></image:title>
+			<image:caption><![CDATA[Rocket Engine Thumbnail]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/new-video-build-simple-rocket-body-household-items/</loc>
+		<lastmod>2017-09-07T09:15:18-06:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/09/Rocket-Body-1.jpg</image:loc>
+			<image:title><![CDATA[Rocket Body Thumbnail]]></image:title>
+			<image:caption><![CDATA[Rocket Body Thumbnail]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/new-video-homemade-rocket-bazooka-test-fire/</loc>
+		<lastmod>2017-09-13T08:10:13-06:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/09/rocket-bazooka.jpg</image:loc>
+			<image:title><![CDATA[rocket bazooka]]></image:title>
+			<image:caption><![CDATA[Rocket Bazooka Thumbnail]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/new-video-microwave-experiments-with-various-household-objects/</loc>
+		<lastmod>2017-11-27T08:20:46-07:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/microwav.jpg</image:loc>
+			<image:title><![CDATA[microwave video thumbnail]]></image:title>
+			<image:caption><![CDATA[Microwaving stuff]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/acknowledgement-easter-egg-site/</loc>
+		<lastmod>2018-08-14T11:28:18-06:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/05/cicada.jpg</image:loc>
+			<image:title><![CDATA[cicada]]></image:title>
+			<image:caption><![CDATA[Cicada]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/05/cicada.jpg</image:loc>
+			<image:caption><![CDATA[Cicada]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/gameasset-announcement/</loc>
+		<lastmod>2021-07-05T15:04:29-06:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/07/gameasset-screenshot-1.png</image:loc>
+			<image:title><![CDATA[gameasset screenshot 1]]></image:title>
+			<image:caption><![CDATA[Game Asset Screenshot]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/07/gameasset-screenshot-1.png</image:loc>
+			<image:caption><![CDATA[Game Asset Screenshot]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/07/game-asset-screenshot-2.png</image:loc>
+			<image:title><![CDATA[Game Asset Homepage]]></image:title>
+			<image:caption><![CDATA[Game Asset Homepage]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/happened-blasted-science-2/</loc>
+		<lastmod>2021-07-05T15:20:36-06:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/07/living-room-3035878_1280.jpg</image:loc>
+			<image:title><![CDATA[living-room-3035878_1280]]></image:title>
+			<image:caption><![CDATA[Abandoned house]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/07/living-room-3035878_1280.jpg</image:loc>
+			<image:caption><![CDATA[Abandoned house]]></image:caption>
+		</image:image>
+	</url>
+</urlset>
+<!-- XML Sitemap generated by Yoast SEO -->
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Requested URI contains query) 
+
+Served from: blastedscience.com @ 2023-08-21 21:44:59 by W3 Total Cache
+-->

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:series="https://publishpress.com/"
+	>
+
+<channel>
+	<title>juicy &#8211; Blasted Science</title>
+	<atom:link href="/tag/juicy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>DIY Projects Done Completely Wrong</description>
+	<lastBuildDate>Thu, 13 Apr 2017 20:04:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">123820757</site>	<item>
+		<title>New Video: &#8220;Super Juicy&#8221; &#8211; Jacob&#8217;s Ladder Bonus Video</title>
+		<link>/new-video-super-juicy-jacobs-ladder-bonus-video/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=new-video-super-juicy-jacobs-ladder-bonus-video</link>
+					<comments>/new-video-super-juicy-jacobs-ladder-bonus-video/#respond</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Thu, 13 Apr 2017 20:04:58 +0000</pubDate>
+				<category><![CDATA[Video]]></category>
+		<category><![CDATA[diy]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[juicy]]></category>
+		<category><![CDATA[videos]]></category>
+		<guid isPermaLink="false">/?p=781</guid>
+
+					<description><![CDATA[<p>While perfecting our Jacob's Ladder design, we discovered a strange, wonderful substance that coined Blasted Science's most famous phrase.</p>
+<p>The post <a rel="nofollow" href="/new-video-super-juicy-jacobs-ladder-bonus-video/">New Video: &#8220;Super Juicy&#8221; &#8211; Jacob&#8217;s Ladder Bonus Video</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>While perfecting our Jacob&#8217;s Ladder design, we discovered a strange, wonderful substance that coined Blasted Science&#8217;s most famous phrase: juicy.</p>
+<p>The thing we cracked open is a big light from inside a projector TV. They are full of juice.</p>
+<p>We don&#8217;t recommend spilling any on your driveway as it takes days to disappear. Don&#8217;t drink it either.</p>
+<p><iframe src="//www.youtube.com/embed/6Jc2_CG5sVA" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
+<p>The post <a rel="nofollow" href="/new-video-super-juicy-jacobs-ladder-bonus-video/">New Video: &#8220;Super Juicy&#8221; &#8211; Jacob&#8217;s Ladder Bonus Video</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/new-video-super-juicy-jacobs-ladder-bonus-video/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">781</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Requested URI contains query) 
+
+Served from: blastedscience.com @ 2023-08-21 21:45:19 by W3 Total Cache
+-->

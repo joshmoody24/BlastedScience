@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:series="https://publishpress.com/"
+	>
+
+<channel>
+	<title>safety &#8211; Blasted Science</title>
+	<atom:link href="/tag/safety/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>DIY Projects Done Completely Wrong</description>
+	<lastBuildDate>Fri, 14 Apr 2017 19:03:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">123820757</site>	<item>
+		<title>New Video: How to Make a 20,000 Volt Jacob&#8217;s Ladder (Sort of)</title>
+		<link>/new-video-make-20000-volt-jacobs-ladder-sort/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=new-video-make-20000-volt-jacobs-ladder-sort</link>
+					<comments>/new-video-make-20000-volt-jacobs-ladder-sort/#respond</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Mon, 10 Apr 2017 15:48:28 +0000</pubDate>
+				<category><![CDATA[Electricity]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[High Voltage]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Informational]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[capacitors]]></category>
+		<category><![CDATA[diy]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[high voltage]]></category>
+		<category><![CDATA[informational]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[videos]]></category>
+		<category><![CDATA[voltage]]></category>
+		<guid isPermaLink="false">/?p=775</guid>
+
+					<description><![CDATA[<p>This is hands-down the easiest way to make a Jacob's Ladder, period. All you need is an old TV and a death wish.</p>
+<p>The post <a rel="nofollow" href="/new-video-make-20000-volt-jacobs-ladder-sort/">New Video: How to Make a 20,000 Volt Jacob&#8217;s Ladder (Sort of)</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>After years of study and practice, Blasted Science has finally perfected the Jacob&#8217;s Ladder. Technically it breaks after five seconds, but hey, maybe yours won&#8217;t.</p>
+<p>This is hands-down the easiest way to make a Jacob&#8217;s Ladder, period. All you need is an old TV and a death wish.</p>
+<h3><iframe src="//www.youtube.com/embed/3D4caz-c3PI" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></h3>
+<p>The actual tutorial in the video is quite subtle, so here&#8217;s a written explanation of exactly what we did:</p>
+<h3><strong>Instructions:</strong></h3>
+<ol>
+<li>Take apart a CRT TV. Be careful! They can implode if you crack the glass.</li>
+<li>Rip the circuit board out. This will probably require cutting a few wires.</li>
+<li>Plug it into the wall, and turn it on. You should hear a high-pitched noise. This is the part where you be EXTREMELY careful.</li>
+<li>Two of the biggest (usually red) wires will arc up to a few centimeters. These are the wires you want. Don&#8217;t get your bare skin near them. Keep your left hand behind your back at all times.</li>
+<li>Hook the two arcing wires up to a pair of metal rods that are in a long V-shape. Voila! That&#8217;s all there is to it.</li>
+</ol>
+<p>You might have to initiate the spark by putting something metal between the two wires at the bottom.</p>
+<p>DO NOT TRY THIS AT HOME. A SINGLE MISTAKE WILL KILL YOU. The electricity is powerful enough to instantly kill you. Would not recommend.</p>
+<p>The post <a rel="nofollow" href="/new-video-make-20000-volt-jacobs-ladder-sort/">New Video: How to Make a 20,000 Volt Jacob&#8217;s Ladder (Sort of)</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/new-video-make-20000-volt-jacobs-ladder-sort/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">775</post-id>	</item>
+		<item>
+		<title>Possible Foreshadowing? A Failed Jacob&#8217;s Ladder Experiment</title>
+		<link>/possible-foreshadowing-failed-jacobs-ladder-experiment/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=possible-foreshadowing-failed-jacobs-ladder-experiment</link>
+					<comments>/possible-foreshadowing-failed-jacobs-ladder-experiment/#respond</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Mon, 20 Mar 2017 15:02:10 +0000</pubDate>
+				<category><![CDATA[Electricity]]></category>
+		<category><![CDATA[High Voltage]]></category>
+		<category><![CDATA[Informational]]></category>
+		<category><![CDATA[current]]></category>
+		<category><![CDATA[danger]]></category>
+		<category><![CDATA[dangerous]]></category>
+		<category><![CDATA[death]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[high voltage]]></category>
+		<category><![CDATA[informational]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[voltage]]></category>
+		<guid isPermaLink="false">/?p=650</guid>
+
+					<description><![CDATA[<p>A young boy, not unlike the members of Blasted Science, built a Jacob's Ladder in his garage. Unfortunately, he is now dead.</p>
+<p>The post <a rel="nofollow" href="/possible-foreshadowing-failed-jacobs-ladder-experiment/">Possible Foreshadowing? A Failed Jacob&#8217;s Ladder Experiment</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<h3><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-693" src="/wp-content/uploads/2017/02/imminent-death-finaler-1024x640.png" alt="Imminent Death" width="800" height="500" srcset="/wp-content/uploads/2017/02/imminent-death-finaler-1024x640.png 1024w, /wp-content/uploads/2017/02/imminent-death-finaler-300x188.png 300w, /wp-content/uploads/2017/02/imminent-death-finaler-400x250.png 400w, /wp-content/uploads/2017/02/imminent-death-finaler.png 1152w" sizes="(max-width: 800px) 100vw, 800px" /></h3>
+<h3><strong>Late Condolences to a Brother in Arms</strong></h3>
+<p><a href="https://mic.com/articles/141570/teen-morgan-wojciechowski-dies-in-youtube-jacobs-ladder-science-experiment#.5AuBED6la">Turns out we aren&#8217;t the only idiots in the world.</a> Some other guy decided to copy us and make a Jacob&#8217;s ladder. Unlike us, though, they were unable to keep themselves safe. They are no longer with us. Actually, they haven&#8217;t been with us for almost a year now. We didn&#8217;t get the message until recently.</p>
+<h3><strong>Homemade Jacob&#8217;s Ladder</strong></h3>
+<p>A young boy, not unlike the members of Blasted Science, built a Jacob&#8217;s Ladder in his garage, just like we did. Tragically, he was found dead by his parents.</p>
+<blockquote>
+<p class="">A 15-year-old boy in Ohio electrocuted himself while attempting a science experiment he saw on YouTube, <i><a href="http://www.reuters.com/article/us-ohio-electrocution-idUSKCN0XH29C">Reuters</a></i> reported.</p>
+<p class="p1">The teenager, Morgan Wojciechowski, tried to conduct a high-voltage experiment, called <a href="http://newyork.cbslocal.com/2016/04/20/teen-electrocuted-youtube/">Jacob&#8217;s Ladder</a>, in the garage of his home in northern Ohio. Wojciechowski&#8217;s parents found him there on Tuesday, <a href="http://abcnews.go.com/US/wireStory/ohio-boy-electrocuted-conducting-youtube-experiment-38537056">ABC News</a> reported, and emergency crews took him to the hospital, where he was pronounced dead.</p>
+<p class="p1"><a href="https://mic.com/articles/141570/teen-morgan-wojciechowski-dies-in-youtube-jacobs-ladder-science-experiment#.5CkrL1SIC">Source</a></p>
+</blockquote>
+<h3><strong>Cause of Death</strong></h3>
+<p>The article suggests that the reason he died was because many online Jacob&#8217;s Ladder tutorials don&#8217;t have any warning about how dangerous it is:</p>
+<blockquote><p>It&#8217;s easy to find a Jacob&#8217;s Ladder tutorial on the internet, and it might not tell you you can die from making it.</p></blockquote>
+<p>That&#8217;s a pretty awful thing for people to do. How could they just ignore the danger to their viewer&#8217;s lives? That&#8217;s downright sinister. A big problem for many tutorials is that the author can unintentionally assume that the viewer already knows how dangerous electrical experiments are.</p>
+<p>(Editor&#8217;s note: contrary to popular belief, we aren&#8217;t guilty of this whatsoever; <a href="http://www.youtube.com/watch?v=49WSXFQVTCI&amp;t=5m12s">we know how dangerous Jacob&#8217;s Ladders are,</a> but <em>choose</em> to ignore it. Because we&#8217;re smart, y&#8217;all.)</p>
+<h3><strong>The Lesson</strong></h3>
+<p>Don&#8217;t be a dumb! Compared to the one in the article, our Jacob&#8217;s Ladder had double the voltage and we probably took less precautions. There&#8217;s also no chance that we&#8217;re more intelligent than our deceased compadre. How did we survive? The answer is simply the combination of our two best traits: sheer luck and incredibly thick, resistive skin.</p>
+<div id="attachment_737" style="width: 810px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-737" decoding="async" loading="lazy" class="size-large wp-image-737" src="/wp-content/uploads/2017/02/wp-1487781213609-1024x576.jpg" alt="Jacob's Ladder" width="800" height="450" srcset="/wp-content/uploads/2017/02/wp-1487781213609-1024x576.jpg 1024w, /wp-content/uploads/2017/02/wp-1487781213609-300x169.jpg 300w, /wp-content/uploads/2017/02/wp-1487781213609-320x180.jpg 320w, /wp-content/uploads/2017/02/wp-1487781213609-400x225.jpg 400w, /wp-content/uploads/2017/02/wp-1487781213609.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /><p id="caption-attachment-737" class="wp-caption-text">Blasted Science&#8217;s first attempt at a Jacob&#8217;s Ladder.</p></div>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="/possible-foreshadowing-failed-jacobs-ladder-experiment/">Possible Foreshadowing? A Failed Jacob&#8217;s Ladder Experiment</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/possible-foreshadowing-failed-jacobs-ladder-experiment/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">650</post-id>	</item>
+		<item>
+		<title>How to Use Electricity: Wall Power</title>
+		<link>/how-to-use-electricity-wall-power/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=how-to-use-electricity-wall-power</link>
+					<comments>/how-to-use-electricity-wall-power/#comments</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Sat, 20 Feb 2016 20:09:05 +0000</pubDate>
+				<category><![CDATA[Electricity]]></category>
+		<category><![CDATA[High Voltage]]></category>
+		<category><![CDATA[danger]]></category>
+		<category><![CDATA[diy]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[railroad spike]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<guid isPermaLink="false">/?p=269</guid>
+
+					<description><![CDATA[<p>Welcome to How to Use Electricity: a series explaining the important, useful parts of electricity. This series will explain everything you need to know to be able to use it in your own projects.</p>
+<p>The post <a rel="nofollow" href="/how-to-use-electricity-wall-power/">How to Use Electricity: Wall Power</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Welcome to <em>How to Use Electricity</em>: a series explaining the important, useful parts of electricity. This series will explain everything you need to know to be able to use it in your own projects. We&#8217;ve cut out all the fat so we can explain it as simply and quickly as we can.<span id="more-269"></span></p>
+<p>Learning about electricity can be overwhelming. The purpose of this series is to explain the fundamentals of electricity in a simple and practical way. Let&#8217;s get started.</p>
+<h2 style="text-align: center;"><strong>What is Wall Power?</strong></h2>
+<div id="attachment_271" style="width: 160px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2016/02/outlet-303731_960_720.png" rel="attachment wp-att-271"><img aria-describedby="caption-attachment-271" decoding="async" loading="lazy" class="wp-image-271 " src="/wp-content/uploads/2016/02/outlet-303731_960_720-189x300.png" alt="Electricity Wall Outlet" width="150" height="238" srcset="/wp-content/uploads/2016/02/outlet-303731_960_720-189x300.png 189w, /wp-content/uploads/2016/02/outlet-303731_960_720-252x400.png 252w, /wp-content/uploads/2016/02/outlet-303731_960_720.png 453w" sizes="(max-width: 150px) 100vw, 150px" /></a><p id="caption-attachment-271" class="wp-caption-text">U.S. Wall Outlet</p></div>
+<p>Also known as mains power, AC power, or household power, this refers to the electricity you get from those little wall sockets you plug everything into. Wall power is by far the most commonly used source of electricity for dangerous DIY projects. This is the only kind of electricity you&#8217;ll need to know about for anything Blasted Science does. In the United States, wall power is 120VAC at 60Hz, with a maximum current of 15A. That&#8217;s a lot of big numbers. We&#8217;ll go into more detail about what that means later in the series, but this essentially means three things about wall power:</p>
+<ul>
+<li>It can kill you.</li>
+<li>It can supply enough power for just about any project you can imagine.</li>
+<li>If you stick one end of a wire into both holes, there will be a big flash and the outlet won&#8217;t work anymore.</li>
+</ul>
+<p>Thankfully, it&#8217;s easy to get the outlet working again. These days, it&#8217;s as easy as opening your fuse box and flipping a switch.</p>
+<h2 style="text-align: center;"><strong>How to Use it</strong></h2>
+<p>First things first: read our article on <a href="/how-to-avoid-being-killed-by-electricity/">electrical safety</a>. Now that you&#8217;re up to speed on the basic dangers of electricity, how do we even use it? We&#8217;ll need a cord that plugs into the wall socket, with the other ends exposed. The easiest way to hack this together is to find an old power cable or something similar and cut off one end with a railroad spike and hammer (or a pair of wire cutters). Inside the main cord there will be two or three smaller wires (Don&#8217;t worry about the one that plugs into the circular bottom hole, we won&#8217;t need it). Strip the ends of the smaller wires and you&#8217;ll have something like this:</p>
+<p><a href="/wp-content/uploads/2016/02/IMG_7245-e1455998785842.jpg" rel="attachment wp-att-278"><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-278" src="/wp-content/uploads/2016/02/IMG_7245-1024x640.jpg" alt="Power Cable" width="800" height="500" /></a></p>
+<p>You&#8217;re done! If you plug the cable into the wall and touch the two ends together, you&#8217;ll get some beautifully bright sparks and a blown fuse. This can already be used as a power supply for a number of projects, but it becomes far more useful with some additional parts. Later posts in this series will go into detail on what this can be used for. Stay tuned!</p>
+<p>The post <a rel="nofollow" href="/how-to-use-electricity-wall-power/">How to Use Electricity: Wall Power</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-to-use-electricity-wall-power/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">269</post-id>	</item>
+		<item>
+		<title>How to Avoid Being Killed by Electricity</title>
+		<link>/how-to-avoid-being-killed-by-electricity/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=how-to-avoid-being-killed-by-electricity</link>
+					<comments>/how-to-avoid-being-killed-by-electricity/#comments</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Thu, 18 Feb 2016 05:47:25 +0000</pubDate>
+				<category><![CDATA[High Voltage]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[current]]></category>
+		<category><![CDATA[death]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[voltage]]></category>
+		<guid isPermaLink="false">/?p=210</guid>
+
+					<description><![CDATA[<p>It’s a good idea to know what you’re getting into. When is electricity dangerous?</p>
+<p>The post <a rel="nofollow" href="/how-to-avoid-being-killed-by-electricity/">How to Avoid Being Killed by Electricity</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2 style="text-align: center;">Electricity is Dangerous</h2>
+<p>Electricity is really cool. It can also be extremely dangerous. Obviously, this shouldn’t discourage you from playing with high-powered electrical devices. It’s a good idea to know what you’re getting into, though. When is electricity dangerous?</p>
+<p><span id="more-210"></span></p>
+<p>You could just go read <a href="https://www.lanl.gov/safety/electrical/docs/elec_hazard_awareness_study_guide.pdf#page=8">this PDF</a>, but should you really trust the government with your life? Blasted Science has plenty of experience with electricity. Trust us.</p>
+<h3 style="text-align: center;">How Much is Lethal?</h3>
+<p>It takes a <a href="http://gizmodo.com/5262971/giz-explains-how-electrocution-really-kills-you">surprisingly small amount</a> of electricity to kill you. According to <a href="http://adamsavage.com/">Adam Savage</a>, all it takes is 7 milliamps for three seconds. That’s tiny. An LED would barely light up with that amount of current. And since the internal resistance of the human body is about <a href="http://eplasty.com/index.php?option=com_content&amp;view=article&amp;id=345&amp;catid=170:volume-09-eplasty-2009">300 ohms</a>, it would only require 2.1 volts to kill. That&#8217;s only slightly more than a AA battery.</p>
+<p>Fortunately, our bodies have one big protection to electricity: skin. Dry skin has a resistance of <a href="http://eplasty.com/index.php?option=com_content&amp;view=article&amp;id=345&amp;catid=170:volume-09-eplasty-2009">100,000 ohms to 600,000 ohms</a>. You might think this means that you’d need to be shocked with at least 3430 volts before your life is at risk, but it&#8217;s not that simple.</p>
+<p>The above calculation applies only to dry skin. Wet skin is much more conductive. Voltages as low as 50 volts can be dangerous when your skin is wet.</p>
+<h3 style="text-align: center;">Breakdown Voltage</h3>
+<p>At high voltages, skin loses most of its resistance and becomes much more conductive. As <a href="http://At/ 500 V or more, high resistance in the outer layer of the skin breaks down.3 This lowers the body's resistance to current flow greatly. The result is an increase in the amount of current that flows with any given voltage. Areas of skin breakdown are sometimes pinhead-sized wounds that can be easily overlooked. They are often a sign that a large amount of current could enter the body. This current can be expected to result in deep tissue injury to muscles, nerves, and other structures. This is one reason why there is often significant deep tissue injury little in the way of skin burns with high-voltage injuries.">eplasty.com</a> puts it,</p>
+<blockquote><p>At 500 V or more, high resistance in the outer layer of the skin breaks down. This lowers the body&#8217;s resistance to current flow greatly. The result is an increase in the amount of current that flows with any given voltage. Areas of skin breakdown are sometimes pinhead-sized wounds that can be easily overlooked. They are often a sign that a large amount of current could enter the body. This current can be expected to result in deep tissue injury to muscles, nerves, and other structures. This is one reason why there is often significant deep tissue injury little in the way of skin burns with high-voltage injuries.</p></blockquote>
+<h2 style="text-align: center;">Summary</h2>
+<p>In summary, the danger of electricity is highly variable. The best option is to play it safe. Exercise caution with any moderate to high voltage source. We&#8217;ve only scratched the surface of electrical dangers. There are many other factors that are beyond the scope of this article.</p>
+<p>Does this mean you should avoid electricity at all costs? Of course not! Just don&#8217;t be stupid. At least, not as stupid as we are. Blasted Science has made some incredibly poor decisions with electricity in the past. It&#8217;s remarkable that we&#8217;re all still alive. Please don&#8217;t follow our example.</p>
+<p>The post <a rel="nofollow" href="/how-to-avoid-being-killed-by-electricity/">How to Avoid Being Killed by Electricity</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-to-avoid-being-killed-by-electricity/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">210</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Requested URI contains query) 
+
+Served from: blastedscience.com @ 2023-08-21 21:45:21 by W3 Total Cache
+-->

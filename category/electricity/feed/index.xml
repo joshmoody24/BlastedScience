@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:series="https://publishpress.com/"
+	>
+
+<channel>
+	<title>Electricity &#8211; Blasted Science</title>
+	<atom:link href="/category/electricity/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>DIY Projects Done Completely Wrong</description>
+	<lastBuildDate>Fri, 14 Apr 2017 19:03:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">123820757</site>	<item>
+		<title>New Video: How to Make a 20,000 Volt Jacob&#8217;s Ladder (Sort of)</title>
+		<link>/new-video-make-20000-volt-jacobs-ladder-sort/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=new-video-make-20000-volt-jacobs-ladder-sort</link>
+					<comments>/new-video-make-20000-volt-jacobs-ladder-sort/#respond</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Mon, 10 Apr 2017 15:48:28 +0000</pubDate>
+				<category><![CDATA[Electricity]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[High Voltage]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Informational]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[capacitors]]></category>
+		<category><![CDATA[diy]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[high voltage]]></category>
+		<category><![CDATA[informational]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[videos]]></category>
+		<category><![CDATA[voltage]]></category>
+		<guid isPermaLink="false">/?p=775</guid>
+
+					<description><![CDATA[<p>This is hands-down the easiest way to make a Jacob's Ladder, period. All you need is an old TV and a death wish.</p>
+<p>The post <a rel="nofollow" href="/new-video-make-20000-volt-jacobs-ladder-sort/">New Video: How to Make a 20,000 Volt Jacob&#8217;s Ladder (Sort of)</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>After years of study and practice, Blasted Science has finally perfected the Jacob&#8217;s Ladder. Technically it breaks after five seconds, but hey, maybe yours won&#8217;t.</p>
+<p>This is hands-down the easiest way to make a Jacob&#8217;s Ladder, period. All you need is an old TV and a death wish.</p>
+<h3><iframe src="//www.youtube.com/embed/3D4caz-c3PI" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></h3>
+<p>The actual tutorial in the video is quite subtle, so here&#8217;s a written explanation of exactly what we did:</p>
+<h3><strong>Instructions:</strong></h3>
+<ol>
+<li>Take apart a CRT TV. Be careful! They can implode if you crack the glass.</li>
+<li>Rip the circuit board out. This will probably require cutting a few wires.</li>
+<li>Plug it into the wall, and turn it on. You should hear a high-pitched noise. This is the part where you be EXTREMELY careful.</li>
+<li>Two of the biggest (usually red) wires will arc up to a few centimeters. These are the wires you want. Don&#8217;t get your bare skin near them. Keep your left hand behind your back at all times.</li>
+<li>Hook the two arcing wires up to a pair of metal rods that are in a long V-shape. Voila! That&#8217;s all there is to it.</li>
+</ol>
+<p>You might have to initiate the spark by putting something metal between the two wires at the bottom.</p>
+<p>DO NOT TRY THIS AT HOME. A SINGLE MISTAKE WILL KILL YOU. The electricity is powerful enough to instantly kill you. Would not recommend.</p>
+<p>The post <a rel="nofollow" href="/new-video-make-20000-volt-jacobs-ladder-sort/">New Video: How to Make a 20,000 Volt Jacob&#8217;s Ladder (Sort of)</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/new-video-make-20000-volt-jacobs-ladder-sort/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">775</post-id>	</item>
+		<item>
+		<title>Possible Foreshadowing? A Failed Jacob&#8217;s Ladder Experiment</title>
+		<link>/possible-foreshadowing-failed-jacobs-ladder-experiment/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=possible-foreshadowing-failed-jacobs-ladder-experiment</link>
+					<comments>/possible-foreshadowing-failed-jacobs-ladder-experiment/#respond</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Mon, 20 Mar 2017 15:02:10 +0000</pubDate>
+				<category><![CDATA[Electricity]]></category>
+		<category><![CDATA[High Voltage]]></category>
+		<category><![CDATA[Informational]]></category>
+		<category><![CDATA[current]]></category>
+		<category><![CDATA[danger]]></category>
+		<category><![CDATA[dangerous]]></category>
+		<category><![CDATA[death]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[high voltage]]></category>
+		<category><![CDATA[informational]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[voltage]]></category>
+		<guid isPermaLink="false">/?p=650</guid>
+
+					<description><![CDATA[<p>A young boy, not unlike the members of Blasted Science, built a Jacob's Ladder in his garage. Unfortunately, he is now dead.</p>
+<p>The post <a rel="nofollow" href="/possible-foreshadowing-failed-jacobs-ladder-experiment/">Possible Foreshadowing? A Failed Jacob&#8217;s Ladder Experiment</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<h3><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-693" src="/wp-content/uploads/2017/02/imminent-death-finaler-1024x640.png" alt="Imminent Death" width="800" height="500" srcset="/wp-content/uploads/2017/02/imminent-death-finaler-1024x640.png 1024w, /wp-content/uploads/2017/02/imminent-death-finaler-300x188.png 300w, /wp-content/uploads/2017/02/imminent-death-finaler-400x250.png 400w, /wp-content/uploads/2017/02/imminent-death-finaler.png 1152w" sizes="(max-width: 800px) 100vw, 800px" /></h3>
+<h3><strong>Late Condolences to a Brother in Arms</strong></h3>
+<p><a href="https://mic.com/articles/141570/teen-morgan-wojciechowski-dies-in-youtube-jacobs-ladder-science-experiment#.5AuBED6la">Turns out we aren&#8217;t the only idiots in the world.</a> Some other guy decided to copy us and make a Jacob&#8217;s ladder. Unlike us, though, they were unable to keep themselves safe. They are no longer with us. Actually, they haven&#8217;t been with us for almost a year now. We didn&#8217;t get the message until recently.</p>
+<h3><strong>Homemade Jacob&#8217;s Ladder</strong></h3>
+<p>A young boy, not unlike the members of Blasted Science, built a Jacob&#8217;s Ladder in his garage, just like we did. Tragically, he was found dead by his parents.</p>
+<blockquote>
+<p class="">A 15-year-old boy in Ohio electrocuted himself while attempting a science experiment he saw on YouTube, <i><a href="http://www.reuters.com/article/us-ohio-electrocution-idUSKCN0XH29C">Reuters</a></i> reported.</p>
+<p class="p1">The teenager, Morgan Wojciechowski, tried to conduct a high-voltage experiment, called <a href="http://newyork.cbslocal.com/2016/04/20/teen-electrocuted-youtube/">Jacob&#8217;s Ladder</a>, in the garage of his home in northern Ohio. Wojciechowski&#8217;s parents found him there on Tuesday, <a href="http://abcnews.go.com/US/wireStory/ohio-boy-electrocuted-conducting-youtube-experiment-38537056">ABC News</a> reported, and emergency crews took him to the hospital, where he was pronounced dead.</p>
+<p class="p1"><a href="https://mic.com/articles/141570/teen-morgan-wojciechowski-dies-in-youtube-jacobs-ladder-science-experiment#.5CkrL1SIC">Source</a></p>
+</blockquote>
+<h3><strong>Cause of Death</strong></h3>
+<p>The article suggests that the reason he died was because many online Jacob&#8217;s Ladder tutorials don&#8217;t have any warning about how dangerous it is:</p>
+<blockquote><p>It&#8217;s easy to find a Jacob&#8217;s Ladder tutorial on the internet, and it might not tell you you can die from making it.</p></blockquote>
+<p>That&#8217;s a pretty awful thing for people to do. How could they just ignore the danger to their viewer&#8217;s lives? That&#8217;s downright sinister. A big problem for many tutorials is that the author can unintentionally assume that the viewer already knows how dangerous electrical experiments are.</p>
+<p>(Editor&#8217;s note: contrary to popular belief, we aren&#8217;t guilty of this whatsoever; <a href="http://www.youtube.com/watch?v=49WSXFQVTCI&amp;t=5m12s">we know how dangerous Jacob&#8217;s Ladders are,</a> but <em>choose</em> to ignore it. Because we&#8217;re smart, y&#8217;all.)</p>
+<h3><strong>The Lesson</strong></h3>
+<p>Don&#8217;t be a dumb! Compared to the one in the article, our Jacob&#8217;s Ladder had double the voltage and we probably took less precautions. There&#8217;s also no chance that we&#8217;re more intelligent than our deceased compadre. How did we survive? The answer is simply the combination of our two best traits: sheer luck and incredibly thick, resistive skin.</p>
+<div id="attachment_737" style="width: 810px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-737" decoding="async" loading="lazy" class="size-large wp-image-737" src="/wp-content/uploads/2017/02/wp-1487781213609-1024x576.jpg" alt="Jacob's Ladder" width="800" height="450" srcset="/wp-content/uploads/2017/02/wp-1487781213609-1024x576.jpg 1024w, /wp-content/uploads/2017/02/wp-1487781213609-300x169.jpg 300w, /wp-content/uploads/2017/02/wp-1487781213609-320x180.jpg 320w, /wp-content/uploads/2017/02/wp-1487781213609-400x225.jpg 400w, /wp-content/uploads/2017/02/wp-1487781213609.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /><p id="caption-attachment-737" class="wp-caption-text">Blasted Science&#8217;s first attempt at a Jacob&#8217;s Ladder.</p></div>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="/possible-foreshadowing-failed-jacobs-ladder-experiment/">Possible Foreshadowing? A Failed Jacob&#8217;s Ladder Experiment</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/possible-foreshadowing-failed-jacobs-ladder-experiment/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">650</post-id>	</item>
+		<item>
+		<title>Nuclear Energy &#8211; Why Not?</title>
+		<link>/nuclear-energy-not/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=nuclear-energy-not</link>
+					<comments>/nuclear-energy-not/#respond</comments>
+		
+		<dc:creator><![CDATA[Bastian Hulse]]></dc:creator>
+		<pubDate>Thu, 16 Feb 2017 20:29:00 +0000</pubDate>
+				<category><![CDATA[Electricity]]></category>
+		<category><![CDATA[Informational]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[informational]]></category>
+		<guid isPermaLink="false">/?p=719</guid>
+
+					<description><![CDATA[<p>Too many people are whining about the use of nuclear power. Before you bag on it you should actually learn how it works.</p>
+<p>The post <a rel="nofollow" href="/nuclear-energy-not/">Nuclear Energy &#8211; Why Not?</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Too many people hear the word nuclear and immediately think that whatever it is used for is bad, but what about power plants?</span></p>
+<p><img decoding="async" loading="lazy" class="alignnone wp-image-721" src="/wp-content/uploads/2017/02/Chooz_Nuclear_Power_Plant-9361-300x169.jpg" alt="" width="722" height="406" srcset="/wp-content/uploads/2017/02/Chooz_Nuclear_Power_Plant-9361-300x169.jpg 300w, /wp-content/uploads/2017/02/Chooz_Nuclear_Power_Plant-9361-320x180.jpg 320w, /wp-content/uploads/2017/02/Chooz_Nuclear_Power_Plant-9361-400x225.jpg 400w, /wp-content/uploads/2017/02/Chooz_Nuclear_Power_Plant-9361.jpg 800w" sizes="(max-width: 722px) 100vw, 722px" /></p>
+<p><span style="font-weight: 400;">We have been hearing way too much about alternative energy sources and random crappy sources that are not efficient at all. We already have a great source, but a few experiences that make us not want to touch it. This great source is nuclear energy.</span></p>
+<p><span style="font-weight: 400;">Like we said earlier you probably don’t like the sound of it, but the truth is nuclear energy is the bomb! Pun very intended. All jokes aside, nuclear energy is cleaner, safer, and more efficient than most people think. People terrified of the unknown. So let&#8217;s learn some things to make it known.</span></p>
+<h3><strong>How does it work?</strong></h3>
+<p><span style="font-weight: 400;">Nuclear energy is created through a process called nuclear fission. Nuclear fission is just a fancy word for splitting apart a nuclear atom to acquire the desired superpower. Well half of that is true, I’ll let you decide which half. This energy is in the form of heat which warms up some liquid, Blasted Science prefers Dr. Pepper, but we are only humble rocket scientists. When the Dr. Pepper is hot enough it will start making bubbles and will steam. It must be approximately 212 degrees Fahrenheit or if you live any other place but the United States 100 degrees Celsius. The best way to tell the temperature is to dive straight in it and time how long it takes to burn the flesh. Once you are nice and crispy then you know it is ready.</span></p>
+<h3><strong>Safety Stuffs</strong></h3>
+<p><span style="font-weight: 400;">It is safe, trust us. Don’t question only obey. There are so many safety precautions that we don’t know where to start. So we won’t start. Instead we will loosely quote what pulled up on Google “Nuclear power is safe and continuing to get safer, so stop being a baby you’re fine.” That’s what Google said, so if you don’t trust us then trust them.</span></p>
+<h3><strong>Conclusion</strong></h3>
+<p><span style="font-weight: 400;">We are constantly improving as a species. What is the point in improving barbaric ways of making energy if we could just switch to one that is way better? Blasted Science is not here to tell you that you are wrong, unless of course you are, but we do want to inform you. We think you should form your own opinion, and as long as it is the same as ours you should voice it. </span></p>
+<p>The post <a rel="nofollow" href="/nuclear-energy-not/">Nuclear Energy &#8211; Why Not?</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/nuclear-energy-not/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">719</post-id>	</item>
+		<item>
+		<title>New Video: Blasted Science Documentary</title>
+		<link>/new-video-blasted-science-documentary-dangerous-diy-projects/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=new-video-blasted-science-documentary-dangerous-diy-projects</link>
+					<comments>/new-video-blasted-science-documentary-dangerous-diy-projects/#respond</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Sat, 04 Feb 2017 03:00:28 +0000</pubDate>
+				<category><![CDATA[Electricity]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[High Voltage]]></category>
+		<category><![CDATA[Informational]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[blowtorch]]></category>
+		<category><![CDATA[current]]></category>
+		<category><![CDATA[danger]]></category>
+		<category><![CDATA[dangerous]]></category>
+		<category><![CDATA[death]]></category>
+		<category><![CDATA[diy]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[lasers]]></category>
+		<category><![CDATA[low-cost]]></category>
+		<category><![CDATA[propane torch]]></category>
+		<category><![CDATA[styrofoam]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[voltage]]></category>
+		<category><![CDATA[weapons]]></category>
+		<guid isPermaLink="false">/?p=618</guid>
+
+					<description><![CDATA[<p>Blasted Science's first video! Spoiler warning: it's dangerous.</p>
+<p>The post <a rel="nofollow" href="/new-video-blasted-science-documentary-dangerous-diy-projects/">New Video: Blasted Science Documentary</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Blasted Science&#8217;s first video! This is an introduction into what we do at Blasted Science. Spoiler warning: it&#8217;s dangerous. Stay tuned for more videos about all of the projects mentioned in this video!</p>
+<p><iframe loading="lazy" src="//www.youtube.com/embed/49WSXFQVTCI" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
+<p>This update is a couple months late. We noticed.</p>
+<p>The post <a rel="nofollow" href="/new-video-blasted-science-documentary-dangerous-diy-projects/">New Video: Blasted Science Documentary</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/new-video-blasted-science-documentary-dangerous-diy-projects/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">618</post-id>	</item>
+		<item>
+		<title>Disposable Cameras Are Too Hard to Find</title>
+		<link>/disposable-cameras-too-hard-to-find/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=disposable-cameras-too-hard-to-find</link>
+					<comments>/disposable-cameras-too-hard-to-find/#comments</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Mon, 16 May 2016 23:00:54 +0000</pubDate>
+				<category><![CDATA[Electricity]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Informational]]></category>
+		<category><![CDATA[capacitors]]></category>
+		<category><![CDATA[disposable camera]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[voltage]]></category>
+		<guid isPermaLink="false">/?p=388</guid>
+
+					<description><![CDATA[<p>There are a ton of DIY projects that require disposable cameras, but finding them is almost impossible.</p>
+<p>The post <a rel="nofollow" href="/disposable-cameras-too-hard-to-find/">Disposable Cameras Are Too Hard to Find</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2 style="text-align: left;"><strong>Not as Easy as It Used to Be</strong></h2>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-422" src="/wp-content/uploads/2016/05/Kodak.png" alt="Kodak" width="960" height="719" srcset="/wp-content/uploads/2016/05/Kodak.png 960w, /wp-content/uploads/2016/05/Kodak-300x225.png 300w, /wp-content/uploads/2016/05/Kodak-400x300.png 400w" sizes="(max-width: 960px) 100vw, 960px" /></p>
+<p>In this modern world, many aspiring budget DIY enthusiasts will run into a problem: finding used disposable cameras is almost impossible. There are a <a href="http://www.instructables.com/howto/disposable+camera/">ton</a> of DIY projects that require disposable cameras. There&#8217;s no substitute for them: they contain a specific part that&#8217;s almost impossible to find elsewhere.</p>
+<h3><strong>The Flash Capacitor</strong></h3>
+<p>The prize inside every disposable camera is the flash circuit. Flash circuits contain two useful parts: a capacitor and its charging circuit. The capacitor is usually between 100-200 µF at around 300-400 Volts. In other words, this thing packs some serious juice. Common uses include <a href="http://www.lucidscience.com/pro-camera%20flash%20taser-1.aspx">tasers</a> and <a href="http://hacknmod.com/hack/electromagnetic-firepower-with-a-diy-coilgun/">coilguns</a>, both of which you can expect to see on this site at some point. The problem is, disposable cameras are getting harder and harder to come across.</p>
+<p>In the old days, one could walk into a local photo development center and simply ask to take all of their used disposable cameras off their hands. In most cases, the store would happily give them away for free. Nowadays it&#8217;s not so simple. Few places still develop film on-site. Every single store I&#8217;ve tried so far, Walgreens, Walmart, etc., ship the cameras off to be developed somewhere else. Getting free cameras just doesn&#8217;t work anymore.</p>
+<h3><strong>Is there a solution?</strong></h3>
+<p>There&#8217;s no way to solve this problem for everyone. Some people may still have access to film development centers. However, it&#8217;s a safe bet to assume that many people have no local access to old disposable cameras in bulk. This is because local stores send the film off to be developed elsewhere. Purchasing new disposable cameras is still possible in many stores, but what idiot would spend upwards of four bucks for something they should be able to get for free? Spending money, obviously, is not an option. The solution? <em>Find out where all of the cameras get sent.</em></p>
+<h3><strong>Where do they get sent?</strong></h3>
+<p>I have no idea. But I&#8217;m going to find out. As editor-in-chief and hottest member of Blasted Science, I consider it my duty to solve this mystery. I&#8217;ve spent weeks crawling the darkest corners of the internet and contacting companies, gathering all the information I can. Blasted Science will be updated in real time with all the information I find.</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="/disposable-cameras-too-hard-to-find/">Disposable Cameras Are Too Hard to Find</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/disposable-cameras-too-hard-to-find/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		
+		<series:name><![CDATA[Hunting for Disposable Cameras]]></series:name>
+<post-id xmlns="com-wordpress:feed-additions:1">388</post-id>	</item>
+		<item>
+		<title>How to Use Electricity: The Basics</title>
+		<link>/how-to-use-electricity-the-basics/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=how-to-use-electricity-the-basics</link>
+					<comments>/how-to-use-electricity-the-basics/#respond</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Thu, 12 May 2016 23:01:25 +0000</pubDate>
+				<category><![CDATA[Electricity]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Informational]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[electronics]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[high voltage]]></category>
+		<guid isPermaLink="false">/?p=368</guid>
+
+					<description><![CDATA[<p>We're going to pretend you're completely clueless and are going to start with explaining electricity at its most basic.</p>
+<p>The post <a rel="nofollow" href="/how-to-use-electricity-the-basics/">How to Use Electricity: The Basics</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-377" src="/wp-content/uploads/2016/05/TheBasics.png" alt="How to Use Electricity: The Basics" width="1280" height="720" srcset="/wp-content/uploads/2016/05/TheBasics.png 1280w, /wp-content/uploads/2016/05/TheBasics-300x169.png 300w, /wp-content/uploads/2016/05/TheBasics-1024x576.png 1024w, /wp-content/uploads/2016/05/TheBasics-400x225.png 400w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p>How to Use Electricity is an educational series of posts designed to help teach you practical applications of electricity in DIY projects.</p>
+<p>If you read our <a href="/how-to-use-electricity-wall-power/">last post</a> in this series, you will have read this paragraph:</p>
+<blockquote><p>Learning about electricity can be overwhelming. The purpose of this series is to explain the fundamentals of electricity in a simple and practical way. Let&#8217;s get started.</p></blockquote>
+<p>But we don&#8217;t think we did a very good job. (&#8220;We&#8221; is the word &#8220;we&#8221; use when &#8220;we&#8221; want to spread the blame.) So we&#8217;re taking a step back.</p>
+<p>Our last tutorial was a basic introduction to a practical use of electricity, but in retrospect, that probably wasn&#8217;t the best way to begin a tutorial series. Anyone who’s ever taken a high school physics class has a fairly solid understanding of electricity. So, with that fact in mind, we&#8217;re going to pretend you&#8217;re completely clueless and are going to start with explaining electricity at its most basic.</p>
+<h2><strong>What is Electricity?</strong></h2>
+<p>Science aside, electricity is can be one of two things: either it charges your phone or it makes some massive sparks that will permanently ruin flint and steel for you.</p>
+<p>There are two broad categories of electricity: static and current.</p>
+<h3><strong>Static</strong></h3>
+<p>Static electricity is pretty cool, but we’re not going to talk about it. Here&#8217;s a tutorial by Nighthawkinlight that explains how to make a static electricity generator.</p>
+<p><iframe loading="lazy" src="//www.youtube.com/embed/P5za9sa4-qk" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
+<p>If you clicked a link to this post because you wanted to find out what static electricity is, you&#8217;re in the wrong place. The only possible project that uses it has already been made. And you just watched it.</p>
+<h3><strong>Current</strong></h3>
+<p>Current electricity refers to electrons <i>moving</i> (as opposed to static electricity, in which electrons stay in the same place and make your hair stand up). This nifty stuff has the look, taste, and consistency of lemonade.</p>
+<div id="attachment_380" style="width: 475px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-380" decoding="async" loading="lazy" class=" wp-image-380" src="/wp-content/uploads/2016/05/Lemon-1024x1013.jpg" alt="Lemon" width="465" height="460" srcset="/wp-content/uploads/2016/05/Lemon-1024x1013.jpg 1024w, /wp-content/uploads/2016/05/Lemon-300x297.jpg 300w, /wp-content/uploads/2016/05/Lemon-400x396.jpg 400w, /wp-content/uploads/2016/05/Lemon.jpg 1920w" sizes="(max-width: 465px) 100vw, 465px" /><p id="caption-attachment-380" class="wp-caption-text">A lithium-ion battery</p></div>
+<p>The most notable use of current electricity is made possible by the walls of your house. As you probably already knew (because you&#8217;ve read our <a href="/how-to-use-electricity-wall-power/">previous post</a>), those little, circular wall outlets are responsible for everything from mowing your lawn to spreading the butter evenly over your second helping of toast. Essentially, you owe your life to these angels in disguise. However, at Blasted Science, we don&#8217;t care about life. We are much more interested in danger. And we’ll let you play along.</p>
+<h2><strong>Experiment</strong></h2>
+<p>Here&#8217;s a simple, educational project you can do at home:</p>
+<ol>
+<li>Put on half a pair of thick leather gloves.</li>
+<li>In your newly insulated hand, place a piece of wire.</li>
+<li>Insert one end of the wire into the left hole of the wall socket (be careful not to let the wire touch your skin. This is what the glove is for.)</li>
+<li>Stick the other end of the wire into the right hole of the wall socket.</li>
+<li>Try not to flinch.</li>
+</ol>
+<h3><strong>What can we learn from this project?</strong></h3>
+<p>Electricity is roughly ten times more entertaining when used incorrectly. That figure is accurate to within a factor of ten, depending on how bright the sparks get. In this example, you probably saw a fairly bright, short-lived, blue spark accompanied by a loud popping sound.</p>
+<h3><strong>Why did the spark go away?</strong></h3>
+<p>If too much current tries to come out of the wall outlet, the power gets shut off. Placing the wire into both holes short-circuited the wall outlet, which then tried to draw <i>way</i> too much current. The current flows for a fraction of a second before the fuse box snapped the puny socket’s neck, in exactly the way a murderer in rehab wouldn’t.</p>
+<h3><strong>Why did the power in half my house just go out?</strong></h3>
+<p>As explained above, drawing too much power will shut off the current. Often, the power to the surrounding portion of your house will also be shut off.<sup>[citation needed]</sup> At least, we&#8217;re pretty sure that happens. Honestly, that might not be the case at all. We&#8217;re too lazy to test it. To fix this, locate your fuse box, open it, and flip random switches until everything is working again. Save any open documents on your computer before trying this.</p>
+<h3><strong>Are the gloves absolutely necessary?</strong></h3>
+<p>Technically you only need <em>one</em> glove. But, yes, that glove is absolutely necessary. It&#8217;s also important to note that the glove needs to be on the hand that is holding the wire. Otherwise it&#8217;s <em>possible</em> that you&#8217;ll feel a mildly excruciating tingly sensation that causes some serious damage to your hand. Don&#8217;t you dare do this and try to sue us! You will get hurt. We do not advise trying this. Sarcasm can&#8217;t protect you from 120 volts. Also, we don&#8217;t have any money, so that would get awkward fast.</p>
+<h3><strong>In conclusion</strong></h3>
+<p>Ignorance is bliss, and we aren’t going to take that away from you.</p>
+<p>The post <a rel="nofollow" href="/how-to-use-electricity-the-basics/">How to Use Electricity: The Basics</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-to-use-electricity-the-basics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">368</post-id>	</item>
+		<item>
+		<title>How to Use Electricity: Wall Power</title>
+		<link>/how-to-use-electricity-wall-power/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=how-to-use-electricity-wall-power</link>
+					<comments>/how-to-use-electricity-wall-power/#comments</comments>
+		
+		<dc:creator><![CDATA[Josh Moody]]></dc:creator>
+		<pubDate>Sat, 20 Feb 2016 20:09:05 +0000</pubDate>
+				<category><![CDATA[Electricity]]></category>
+		<category><![CDATA[High Voltage]]></category>
+		<category><![CDATA[danger]]></category>
+		<category><![CDATA[diy]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[railroad spike]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<guid isPermaLink="false">/?p=269</guid>
+
+					<description><![CDATA[<p>Welcome to How to Use Electricity: a series explaining the important, useful parts of electricity. This series will explain everything you need to know to be able to use it in your own projects.</p>
+<p>The post <a rel="nofollow" href="/how-to-use-electricity-wall-power/">How to Use Electricity: Wall Power</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Welcome to <em>How to Use Electricity</em>: a series explaining the important, useful parts of electricity. This series will explain everything you need to know to be able to use it in your own projects. We&#8217;ve cut out all the fat so we can explain it as simply and quickly as we can.<span id="more-269"></span></p>
+<p>Learning about electricity can be overwhelming. The purpose of this series is to explain the fundamentals of electricity in a simple and practical way. Let&#8217;s get started.</p>
+<h2 style="text-align: center;"><strong>What is Wall Power?</strong></h2>
+<div id="attachment_271" style="width: 160px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2016/02/outlet-303731_960_720.png" rel="attachment wp-att-271"><img aria-describedby="caption-attachment-271" decoding="async" loading="lazy" class="wp-image-271 " src="/wp-content/uploads/2016/02/outlet-303731_960_720-189x300.png" alt="Electricity Wall Outlet" width="150" height="238" srcset="/wp-content/uploads/2016/02/outlet-303731_960_720-189x300.png 189w, /wp-content/uploads/2016/02/outlet-303731_960_720-252x400.png 252w, /wp-content/uploads/2016/02/outlet-303731_960_720.png 453w" sizes="(max-width: 150px) 100vw, 150px" /></a><p id="caption-attachment-271" class="wp-caption-text">U.S. Wall Outlet</p></div>
+<p>Also known as mains power, AC power, or household power, this refers to the electricity you get from those little wall sockets you plug everything into. Wall power is by far the most commonly used source of electricity for dangerous DIY projects. This is the only kind of electricity you&#8217;ll need to know about for anything Blasted Science does. In the United States, wall power is 120VAC at 60Hz, with a maximum current of 15A. That&#8217;s a lot of big numbers. We&#8217;ll go into more detail about what that means later in the series, but this essentially means three things about wall power:</p>
+<ul>
+<li>It can kill you.</li>
+<li>It can supply enough power for just about any project you can imagine.</li>
+<li>If you stick one end of a wire into both holes, there will be a big flash and the outlet won&#8217;t work anymore.</li>
+</ul>
+<p>Thankfully, it&#8217;s easy to get the outlet working again. These days, it&#8217;s as easy as opening your fuse box and flipping a switch.</p>
+<h2 style="text-align: center;"><strong>How to Use it</strong></h2>
+<p>First things first: read our article on <a href="/how-to-avoid-being-killed-by-electricity/">electrical safety</a>. Now that you&#8217;re up to speed on the basic dangers of electricity, how do we even use it? We&#8217;ll need a cord that plugs into the wall socket, with the other ends exposed. The easiest way to hack this together is to find an old power cable or something similar and cut off one end with a railroad spike and hammer (or a pair of wire cutters). Inside the main cord there will be two or three smaller wires (Don&#8217;t worry about the one that plugs into the circular bottom hole, we won&#8217;t need it). Strip the ends of the smaller wires and you&#8217;ll have something like this:</p>
+<p><a href="/wp-content/uploads/2016/02/IMG_7245-e1455998785842.jpg" rel="attachment wp-att-278"><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-278" src="/wp-content/uploads/2016/02/IMG_7245-1024x640.jpg" alt="Power Cable" width="800" height="500" /></a></p>
+<p>You&#8217;re done! If you plug the cable into the wall and touch the two ends together, you&#8217;ll get some beautifully bright sparks and a blown fuse. This can already be used as a power supply for a number of projects, but it becomes far more useful with some additional parts. Later posts in this series will go into detail on what this can be used for. Stay tuned!</p>
+<p>The post <a rel="nofollow" href="/how-to-use-electricity-wall-power/">How to Use Electricity: Wall Power</a> appeared first on <a rel="nofollow" href="/">Blasted Science</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-to-use-electricity-wall-power/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">269</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Requested URI contains query) 
+
+Served from: blastedscience.com @ 2023-08-21 21:45:20 by W3 Total Cache
+-->
